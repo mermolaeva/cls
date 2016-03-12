@@ -19,8 +19,8 @@ kramdown:
 
 # Setup
 title:               the chicago linguistic society
-tagline:             'UChicago'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+tagline:             ''
+description:         ''
 url:                 https://github.com/elotroalex/ed
 baseurl:             '/cls'
 

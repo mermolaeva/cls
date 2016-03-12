@@ -3,6 +3,31 @@ layout: page
 title: Conference
 ---
 
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+
+## Dates
+
+**Dates**: April 21-23, 2016
+
+## Venue
+
+**Venue**: [Ida Noyes Hall](http://maps.uchicago.edu/eastquad/idanoyes.html) at 1212 East 59th Street.
+
+<iframe 
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.8609078047984!2d-87.59776848452385!3d41.788211179229364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2916e43862ed%3A0xb3ed6f8c9e9f6a9a!2sIda+Noyes+Hall%2C+1212+E+59th+St%2C+Chicago%2C+IL+60637!5e0!3m2!1sen!2sus!4v1457771119274" 
+width="100%" 
+height="450" 
+frameborder="0" 
+style="border:0" 
+allowfullscreen>
+</iframe>
+
+## Program
+
 The conference program is available for [download]({{ site.baseurl }}/public/cls52program.pdf).
 
 <iframe 
@@ -10,41 +35,3 @@ src="http://docs.google.com/gview?url=orestxherija.github.io/cls/public/cls52pro
 style="width:100%; height:920px;" 
 frameborder="1">
 </iframe>
-
-**Conference Program** : See [here]({{ site.baseurl }}/public/cls52program.pdf)
-
-**Dates**: April 21-23, 2016
-
-**Venue**: [Ida Noyes Hall](http://maps.uchicago.edu/eastquad/idanoyes.html) at 1212 East 59th Street
-
-**Parking on camus**: Street parking is free in Hyde Park, but [campus parking](http://maps.uchicago.edu/directions/parking/) is also available.
-
-## Accomodation
-
-**[Hyatt Place Chicago-South](http://www.chicagosouthuniversity.place.hyatt.com/en/hotel/home)**
-
-We suggest that conference attendees stay at the Hyatt in Hyde Park because of its convenient location for the conference:
-
-[Hyatt Place Chicago-South](http://www.chicagosouthuniversity.place.hyatt.com/en/hotel/home) <br>
-(773) 752-5300 <br>
-5225 South Harper Avenue <br>
-Chicago IL 60615
-
-**[Hostelling International Chicago](http://hichicago.org/)**:
-
-This large hostel is located in down-town Chicago at Congress and Wabash. Room rates start at $34 a night, with free breakfast.
-
-**Crash space**:
-
-Limited numbers of couches, futons and hide-a-beds are available from 
-students in the University of Chicago community. Please [contact CLS](mailto:clsfiftytwo@gmail.com) for details.
-
-## Transportation
-
-The Hyde Park Hyatt is a short walk from campus. Hostelling International Chicago is one block from the Metra train station at Michigan Ave. and Van Buren Street.  The train ride is about  15 minutes to the 59th Street Station on the campus of University of 
-Chicago. See the [transportation map](http://metrarail.com/metra/en/home/maps_schedules/metra_system_map/me/map.html).
-
-## Maps
-
-Maps of the campus of The University of Chicago and nearby locations can be found [here](http://maps.uchicago.edu/index.shtml).
-
