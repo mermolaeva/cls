@@ -3,20 +3,17 @@ layout: page
 title: Proceedings
 ---
 
-The table below lists CLS volumes available for purchase.
+Proceedings from most of our conferences are available for sale through CLS. We are also beginning to make volumes available online through [Ingentaconnect](http://www.ingentaconnect.com/content/cls). The list of available hard copies and their prices can be found below. To order, please send your shipping information and the quantity of each volume desired to [this email](mailto:clsbooks@gmail.com) or to the following address:
 
-Shipping and handling within the United States is $3 for the first book and $1.50 for each additional book.
-
-International shipping and handling is $15 for each book.
-
-To order, please send your shipping information and the quantity of each volume desired to [this](mailto:clsbooks@gmail.com) e-mail address or to the following address:
-
-Chicago Linguistic Society<br/>
-1115 E. 58th Street<br/>
+Chicago Linguistic Society<br />
+1115 East 58th Street <br />
 Rosenwald 224<br/>
-Chicago, IL 60637 USA<br/>
+Chicago, IL 60637 
+United States of America <br />
 
 Upon receiving your order, we will send an invoice indicating the final price including shipping. Please do not send payment without first having received an invoice. We accept cash and checks, but not credit cards.
+
+Shipping and handling **within the United States** is $3 for the first book and $1.50 for each additional book. International shipping and handling is $15 for each book.
 
 <table>
   	<colgroup width="92" align="center"></colgroup>
