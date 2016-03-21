@@ -30,6 +30,9 @@ allowfullscreen>
 
 The conference program is available for [download]({{ site.baseurl }}/public/cls52program.pdf).
 
+
+
+
 <iframe 
 src="http://docs.google.com/gview?url=orestxherija.github.io/cls/public/cls52program.pdf&embedded=true" 
 style="width:100%; height:920px;" 

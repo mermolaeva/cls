@@ -58,7 +58,7 @@ automatically rejected. Abstracts will be evaluated under a two-tiered system in
 
 ### Important Dates:
 
-- Submission deadline: January 3, 2016 by 11:59 PM CST
+- <del>Submission deadline: January 3, 2016 by 11:59 PM CST
 - Extended deadline: January 10, 2016 by 11:59 PM CST
 - Notification: February 23, 2016
 - Conference dates: April 21-23, 2016
