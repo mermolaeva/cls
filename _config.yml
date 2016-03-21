@@ -22,7 +22,7 @@ title:               the chicago linguistic society
 tagline:             'at <a href="http://www.uchicago.edu/">The University of Chicago</a>'
 description:         ''
 url:                 https://github.com/elotroalex/ed
-baseurl:             '/cls'
+baseurl:             ''
 
 # About/contact
 author:
