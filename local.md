@@ -5,8 +5,6 @@ title: Local Information
 
 # Local Information
 
-**Parking on campus**: Street parking is free in Hyde Park, but [campus parking](http://maps.uchicago.edu/directions/parking/) is also available.
-
 ## Accomodation
 
 **[Hyatt Place Chicago-South](http://www.chicagosouthuniversity.place.hyatt.com/en/hotel/home)**
@@ -24,7 +22,6 @@ This large hostel is located in down-town Chicago at Congress and Wabash. Room r
 
 Budget-minded participants might also want to consider options like [Airbnb](https://www.airbnb.com/) and [Couchsurfing](https://www.couchsurfing.com/).
 
-
 **Crash space**:
 
 Limited numbers of couches, futons and hide-a-beds are available from 
@@ -34,6 +31,8 @@ students in the University of Chicago community. Please [contact CLS](mailto:cls
 
 The Hyde Park Hyatt is a short walk from campus. Hostelling International Chicago is one block from the Metra train station at Michigan Ave. and Van Buren Street.  The train ride is about  15 minutes to the 59th Street Station on the campus of University of 
 Chicago. See the [transportation map](http://metrarail.com/metra/en/home/maps_schedules/metra_system_map/me/map.html).
+
+**Parking on campus**: Street parking is free in Hyde Park, but [campus parking](http://maps.uchicago.edu/directions/parking/) is also available.
 
 ## Maps
 

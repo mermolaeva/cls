@@ -19,7 +19,7 @@ kramdown:
 
 # Setup
 title:               the chicago linguistic society
-tagline:             ''
+tagline:             'at <a href="http://www.uchicago.edu/">The University of Chicago</a>'
 description:         ''
 url:                 https://github.com/elotroalex/ed
 baseurl:             '/cls'
@@ -27,8 +27,8 @@ baseurl:             '/cls'
 # About/contact
 author:
   name:              Orest Xherija
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  url:               
+  email:             orest.xherija@uchicago.edu
 
 # Custom vars
 version:             0.0.3

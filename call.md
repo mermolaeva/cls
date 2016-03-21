@@ -9,13 +9,13 @@ Presenters will be given 20 minutes for presentation followed by a 10-minute que
 
 ## Special Topics:
 
-#### Negation and Polarity
+#### <u>Negation and Polarity</u>
 
 Negation is a universal property of natural language, and creates a complex area of study where morphology, syntax, semantics, pragmatics and logic meet. Negative polarity, likewise, has enjoyed considerable attention in the past 30 years, with lots of important generalizations emerging from intense crosslinguistic work. We invite submissions addressing aspects of negation and polarity, including: (a) the nature and formal
 characterization of polarity items, negative quantifiers, and n-words; (b) the status of expletive negation; and (c) the relation between explicit and implicit negations. Theoretical as
 well as experimental approaches are welcome, as well as data from a variety of languages.
 
-#### Language Endangerment: Causes and Interventions
+#### <u>Language Endangerment: Causes and Interventions</u>
 
 The study of language endangerment lies at the intersection of numerous areas of research, including (but not limited to): language policy, language attitudes and ideology, and language shift. We welcome all
 submissions that explore the root causes of endangerment, as well as those that attend to the
@@ -23,7 +23,7 @@ methodologies of documentation and revitalization. We are also interested in sub
 that evaluate how best to treat data from endangered languages in established theoretical
 frameworks.
 
-#### Language Change
+#### <u>Language Change</u>
 
 Knowledge of how languages have changed over time can contribute
 much to our understanding of synchronic systems. We therefore urge submissions grounded
@@ -32,7 +32,7 @@ language variation, and language contact. Submissions that engage new methodolog
 reconstruction, or the reconstruction of understudied languages and families, are especially
 encouraged.
 
-#### Features and Metafeatures
+#### <u>Features and Metafeatures</u>
 
 Formal linguists from a variety of subfields have long endeav-
 ored to decompose grammatical categories into atomic, context-free features. The features
@@ -44,7 +44,7 @@ that examine: (a) the architecture of morphosyntactic (meta)features (e.g., filt
 cognitive consequences of particular feature systems.
 
 
-### Abtract Guidelines
+## Abtract Guidelines
 
 So that we may evaluate all submissions in a fair and equal manner, abstracts which fail to adhere to any of the following guidelines will be
 automatically rejected. Abstracts will be evaluated under a two-tiered system involving both external and internal reviewers.
@@ -56,7 +56,7 @@ automatically rejected. Abstracts will be evaluated under a two-tiered system in
 5. Use the [Easychair](https://www.easychair.org/conferences/?conf=cls52) platform for the submission of abstracts. 
 6. Restrict submissions to one individual and one joint abstract per author, or two joint abstracts per author.
 
-### Important Dates:
+## Important Dates:
 
 - <del>Submission deadline: January 3, 2016 by 11:59 PM CST
 - Extended deadline: January 10, 2016 by 11:59 PM CST
