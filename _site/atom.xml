@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>the chicago linguistic society</title>
- <link href="https://github.com/elotroalex/ed/cls/atom.xml" rel="self"/>
- <link href="https://github.com/elotroalex/ed/cls/"/>
- <updated>2016-03-21T18:06:12-04:00</updated>
+ <link href="https://github.com/elotroalex/ed/atom.xml" rel="self"/>
+ <link href="https://github.com/elotroalex/ed/"/>
+ <updated>2016-03-21T19:16:36-04:00</updated>
  <id>https://github.com/elotroalex/ed</id>
  <author>
    <name>Orest Xherija</name>
@@ -16,7 +16,7 @@
    <title>A Raisin in the Sun</title>
    <link href="https://github.com/elotroalex/ed/raising.html"/>
    <updated>2016-01-16T00:00:00-05:00</updated>
-   <id>https://github.com/elotroalex/ed/cls/raising</id>
+   <id>https://github.com/elotroalex/ed/raising</id>
    <content type="html">&lt;p class=&quot;citation&quot;&gt; by Lorraine Hansberry&lt;/p&gt;
 
 &lt;p&gt;(excerpt)&lt;/p&gt;
@@ -37,7 +37,7 @@
    <title>O Captain! My Captain!</title>
    <link href="https://github.com/elotroalex/ed/o-captain.html"/>
    <updated>2016-01-16T00:00:00-05:00</updated>
-   <id>https://github.com/elotroalex/ed/cls/o-captain</id>
+   <id>https://github.com/elotroalex/ed/o-captain</id>
    <content type="html">&lt;p class=&quot;citation&quot;&gt; by Walt Whitman&lt;/p&gt;
 
 &lt;ul&gt;
@@ -110,7 +110,7 @@
    <title>Narrative of the Life of Frederick Douglass</title>
    <link href="https://github.com/elotroalex/ed/narrative.html"/>
    <updated>2016-01-16T00:00:00-05:00</updated>
-   <id>https://github.com/elotroalex/ed/cls/narrative</id>
+   <id>https://github.com/elotroalex/ed/narrative</id>
    <content type="html">&lt;hr /&gt;
 
 &lt;h2 id=&quot;editors-note&quot;&gt;Editor’s note&lt;/h2&gt;
@@ -748,7 +748,7 @@ LYNN, &lt;em&gt;Mass., April&lt;/em&gt; 28, 1845.&lt;/p&gt;
    <title>Dreams</title>
    <link href="https://github.com/elotroalex/ed/dreams.html"/>
    <updated>2016-01-16T00:00:00-05:00</updated>
-   <id>https://github.com/elotroalex/ed/cls/dreams</id>
+   <id>https://github.com/elotroalex/ed/dreams</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;Hold fast to dreams&lt;/li&gt;
   &lt;li&gt;For if dreams die&lt;/li&gt;
@@ -769,7 +769,7 @@ LYNN, &lt;em&gt;Mass., April&lt;/em&gt; 28, 1845.&lt;/p&gt;
    <title>Delayed till she had ceased to know</title>
    <link href="https://github.com/elotroalex/ed/delayed.html"/>
    <updated>2016-01-16T00:00:00-05:00</updated>
-   <id>https://github.com/elotroalex/ed/cls/delayed</id>
+   <id>https://github.com/elotroalex/ed/delayed</id>
    <content type="html">&lt;p class=&quot;citation&quot;&gt; by Emily Dickinson&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -805,7 +805,7 @@ LYNN, &lt;em&gt;Mass., April&lt;/em&gt; 28, 1845.&lt;/p&gt;
    <title>A Julia de Burgos</title>
    <link href="https://github.com/elotroalex/ed/a-julia.html"/>
    <updated>2016-01-16T00:00:00-05:00</updated>
-   <id>https://github.com/elotroalex/ed/cls/a-julia</id>
+   <id>https://github.com/elotroalex/ed/a-julia</id>
    <content type="html">&lt;p class=&quot;citation&quot;&gt; by Julia de Burgos&lt;/p&gt;
 
 &lt;ul&gt;
