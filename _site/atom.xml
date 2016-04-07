@@ -4,7 +4,7 @@
  <title>the chicago linguistic society</title>
  <link href="https://github.com/elotroalex/ed/atom.xml" rel="self"/>
  <link href="https://github.com/elotroalex/ed/"/>
- <updated>2016-03-29T13:42:34-04:00</updated>
+ <updated>2016-04-01T12:42:18-05:00</updated>
  <id>https://github.com/elotroalex/ed</id>
  <author>
    <name>Orest Xherija</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>A Raisin in the Sun</title>
    <link href="https://github.com/elotroalex/ed/raising.html"/>
-   <updated>2016-01-16T00:00:00-05:00</updated>
+   <updated>2016-01-16T00:00:00-06:00</updated>
    <id>https://github.com/elotroalex/ed/raising</id>
    <content type="html">&lt;p class=&quot;citation&quot;&gt; by Lorraine Hansberry&lt;/p&gt;
 
@@ -36,7 +36,7 @@
  <entry>
    <title>O Captain! My Captain!</title>
    <link href="https://github.com/elotroalex/ed/o-captain.html"/>
-   <updated>2016-01-16T00:00:00-05:00</updated>
+   <updated>2016-01-16T00:00:00-06:00</updated>
    <id>https://github.com/elotroalex/ed/o-captain</id>
    <content type="html">&lt;p class=&quot;citation&quot;&gt; by Walt Whitman&lt;/p&gt;
 
@@ -109,7 +109,7 @@
  <entry>
    <title>Narrative of the Life of Frederick Douglass</title>
    <link href="https://github.com/elotroalex/ed/narrative.html"/>
-   <updated>2016-01-16T00:00:00-05:00</updated>
+   <updated>2016-01-16T00:00:00-06:00</updated>
    <id>https://github.com/elotroalex/ed/narrative</id>
    <content type="html">&lt;hr /&gt;
 
@@ -747,7 +747,7 @@ LYNN, &lt;em&gt;Mass., April&lt;/em&gt; 28, 1845.&lt;/p&gt;
  <entry>
    <title>Dreams</title>
    <link href="https://github.com/elotroalex/ed/dreams.html"/>
-   <updated>2016-01-16T00:00:00-05:00</updated>
+   <updated>2016-01-16T00:00:00-06:00</updated>
    <id>https://github.com/elotroalex/ed/dreams</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;Hold fast to dreams&lt;/li&gt;
@@ -768,7 +768,7 @@ LYNN, &lt;em&gt;Mass., April&lt;/em&gt; 28, 1845.&lt;/p&gt;
  <entry>
    <title>Delayed till she had ceased to know</title>
    <link href="https://github.com/elotroalex/ed/delayed.html"/>
-   <updated>2016-01-16T00:00:00-05:00</updated>
+   <updated>2016-01-16T00:00:00-06:00</updated>
    <id>https://github.com/elotroalex/ed/delayed</id>
    <content type="html">&lt;p class=&quot;citation&quot;&gt; by Emily Dickinson&lt;/p&gt;
 
@@ -804,7 +804,7 @@ LYNN, &lt;em&gt;Mass., April&lt;/em&gt; 28, 1845.&lt;/p&gt;
  <entry>
    <title>A Julia de Burgos</title>
    <link href="https://github.com/elotroalex/ed/a-julia.html"/>
-   <updated>2016-01-16T00:00:00-05:00</updated>
+   <updated>2016-01-16T00:00:00-06:00</updated>
    <id>https://github.com/elotroalex/ed/a-julia</id>
    <content type="html">&lt;p class=&quot;citation&quot;&gt; by Julia de Burgos&lt;/p&gt;
 
