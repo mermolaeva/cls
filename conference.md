@@ -35,3 +35,13 @@ src="http://docs.google.com/gview?url=orestxherija.github.io/cls/public/cls52pro
 style="width:100%; height:920px;" 
 frameborder="1">
 </iframe>
+
+## Booklet
+
+The conference booklet is available for [download]({{ site.baseurl }}/public/cls52booklet.pdf).
+
+<iframe 
+src="http://docs.google.com/gview?url=orestxherija.github.io/cls/public/cls52booklet.pdf&embedded=true" 
+style="width:100%; height:920px;" 
+frameborder="1">
+</iframe>
