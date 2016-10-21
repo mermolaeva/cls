@@ -5,7 +5,7 @@ title: Local Information
 
 # Local Information
 
-## Accomodation
+## Accommodation
 
 **[Hyatt Place Chicago-South](http://www.chicagosouthuniversity.place.hyatt.com/en/hotel/home)**
 
