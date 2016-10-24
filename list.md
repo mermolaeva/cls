@@ -114,7 +114,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
     <td align="left">Conference 2004; <a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_40-2.pdf">Published 2008</a></td>
     <td align="center">$35</td>
   </tr>
-         <tr>
+  <tr>
     <td align="center">39-1</td>
     <td align="left">Conference 2003; <a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_39-1.pdf">Published 2007</a></td>
     <td align="center">$35</td>
@@ -124,7 +124,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
     <td align="left">Conference 2003; <a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_39-2.pdf">Published 2007</a></td>
     <td align="center">$35</td>
   </tr>
-          <tr>
+  <tr>
     <td align="center">38-1</td>
     <td align="left"><a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_38-1.html">Conference 2002</a></td>
     <td align="center">$25</td>
@@ -134,7 +134,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
     <td align="left"><a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_38-2.html">Conference 2002</a></td>
     <td align="center">$25</td>
   </tr>
-          <tr>
+  <tr>
     <td align="center">37-1</td>
     <td align="left"><a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_37-1.html">Conference 2001</a></td>
     <td align="center">$20</td>
@@ -144,7 +144,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
     <td align="left"><a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_37-2.html">Conference 2001</a></td>
     <td align="center">$20</td>
   </tr>
-            <tr>
+  <tr>
     <td align="center">36-1</td>
     <td align="left"><a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_36-1.html">Conference 2000</a></td>
     <td align="center">$20</td>
@@ -154,7 +154,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
     <td align="left"><a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_36-2.html">Conference 2000</a></td>
     <td align="center">$20</td>
   </tr>
-             <tr>
+  <tr>
     <td align="center">35-1</td>
     <td align="left"><a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_35-1.html">Conference 1999</a></td>
     <td align="center">$20</td>
@@ -167,7 +167,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
    </td>
     <td align="center">$20</td>
   </tr>
-       	 <tr>
+  <tr>
     <td align="center">34-1</td>
     <td align="left"><a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_34-1.html">Conference 1998</a></td>
     <td align="center">$20</td>
@@ -177,7 +177,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
     <td align="left"><a href="http://hum.uchicago.edu/orgs/cls/toc/CLS_34-2.html">Conference 1998</a></td>
     <td align="center">$20</td>
   </tr>
-               <tr>
+  <tr>
     <td align="center">33-1</td>
     <td align="left">Conference 1997</td>
     <td align="center">$20</td>
@@ -190,7 +190,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
    </td>
     <td align="center">$20</td>
   </tr>
-                 <tr>
+  <tr>
     <td align="center">32-1</td>
     <td align="left">Conference 1996</td>
     <td align="center">$20</td>
@@ -203,7 +203,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
    </td>
     <td align="center">$20</td>
   </tr>
-                <tr>
+  <tr>
     <td align="center">31-1</td>
     <td align="left">Conference 1995</td>
     <td align="center">Out of Print</td>
@@ -216,7 +216,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
    </td>
     <td align="center">Out of Print</td>
   </tr>
-                <tr>
+  <tr>
     <td align="center">30-1</td>
     <td align="left">Conference 1994</td>
     <td align="center">$20</td>
@@ -229,7 +229,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
    </td>
     <td align="center">$20</td>
   </tr>
-                  <tr>
+  <tr>
     <td align="center">29-1</td>
     <td align="left">Conference 1993</td>
     <td align="center">$20</td>
@@ -242,184 +242,189 @@ Shipping and handling **within the United States** is $3 for the first book and 
    </td>
     <td align="center">$20</td>
   </tr>
-                    <tr>
+  <tr>
     <td align="center">28-1</td>
     <td align="left">Conference 1992</td>
     <td align="center">$20</td>
   </tr>
-                      <tr>
+  <tr>
     <td align="center">27-1</td>
     <td align="left">Conference 1991</td>
     <td align="center">Out of Print</td>
   </tr>
-                      <tr>
+  <tr>
     <td align="center">27-2</td>
     <td align="left">
     	<b>Parassession Topic</b>: <br> Negation</td>
     <td align="center">$20</td>
   </tr>
-                        <tr>
+  <tr>
     <td align="center">26-1</td>
     <td align="left">Conference 1990</td>
     <td align="center">$20</td>
   </tr>
-                      <tr>
+  <tr>
     <td align="center">26-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> The Syllable</td>
     <td align="center">$20</td>
   </tr>
-                          <tr>
+  <tr>
     <td align="center">25-1</td>
     <td align="left">Conference 1989</td>
     <td align="center">$15</td>
   </tr>
-                      <tr>
+  <tr>
     <td align="center">25-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> Language in Context</td>
     <td align="center">$15</td>
   </tr>
-                            <tr>
+  <tr>
     <td align="center">Best of CLS</td>
     <td align="left">Out of print papers from 1968-1975</td>
     <td align="center">$15</td>
   </tr>
-                          <tr>
+  <tr>
     <td align="center">24-1</td>
     <td align="left">Conference 1988</td>
     <td align="center">$15</td>
   </tr>
-                      <tr>
+  <tr>
     <td align="center">22-1</td>
     <td align="left">Conference 1986</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">22-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> Pragmatics</td>
     <td align="center">$15</td>
-</tr>
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">21-1</td>
     <td align="left">Conference 1985</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">21-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> Causatives & Agentivity</td>
     <td align="center">$15</td>
-</tr>
-
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">20-1</td>
     <td align="left">Conference 1984</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">20-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> Lexical Semantics</td>
     <td align="center">Out of Print</td>
-</tr>
-
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">19-1</td>
     <td align="left">Conference 1983</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">19-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> Interplay of Phonology, Morpohology, and Syntax</td>
     <td align="center">$15</td>
-</tr>
-
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">18-1</td>
     <td align="left">Conference 1982</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">18-2</td>
     <td align="left"><b>Parassession Topic</b>: <br>  Nondeclaratives</td>
     <td align="center">$15</td>
-</tr>
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">17-1</td>
     <td align="left">Conference 1981</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">17-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> Language and Behavior</td>
     <td align="center">$15</td>
-</tr>
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">16-1</td>
     <td align="left">Conference 1980</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">16-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> Pronouns and Anaphora</td>
     <td align="center">$15</td>
-</tr>
-
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">15-1</td>
     <td align="left">Conference 1979</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">15-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> Elements: Units & Levels</td>
     <td align="center">$15</td>
-</tr>
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">14-1</td>
     <td align="left">Conference 1978</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">14-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> The Lexicon</td>
     <td align="center">$15</td>
-</tr>
-
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">13-1</td>
     <td align="left">Conference 1977</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">13-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> Squibs & Index</td>
     <td align="center">$15</td>
-</tr>
-
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">12-1</td>
     <td align="left">Conference 1976</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">12-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> Diachronic Syntax</td>
     <td align="center">$15</td>
-</tr>
-
-                      <tr>
+  </tr>
+<!---
+  <tr>
     <td align="center">12-1</td>
     <td align="left">Conference 1976</td>
     <td align="center">$15</td>
-                          <tr>
+  </tr>
+--->
+  <tr>
     <td align="center">10-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> Natural Phonology</td>
     <td align="center">$15</td>
-</tr>
-                          <tr>
+  </tr>
+  <tr>
     <td align="center">9-2</td>
     <td align="left"><b>Parassession Topic</b>: <br> l'l Take The Low Node</td>
     <td align="center">$15</td>
-</tr>
-
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">8-1</td>
     <td align="left">Conference 1972</td>
     <td align="center">$15</td>
-</tr>
-
-                      <tr>
+  </tr>
+  <tr>
     <td align="center">6-1</td>
     <td align="left">Conference 1970</td>
     <td align="center">$15</td>
-</tr>
+  </tr>
 
 
 </table>
