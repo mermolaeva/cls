@@ -9,39 +9,25 @@ Presenters will be given 20 minutes for presentation followed by a 10-minute que
 
 ## Special Topics:
 
-#### <u>Negation and Polarity</u>
+#### <u>Computational/Mathematical Linguistics</u>
 
-Negation is a universal property of natural language, and creates a complex area of study where morphology, syntax, semantics, pragmatics and logic meet. Negative polarity, likewise, has enjoyed considerable attention in the past 30 years, with lots of important generalizations emerging from intense crosslinguistic work. We invite submissions addressing aspects of negation and polarity, including: (a) the nature and formal
-characterization of polarity items, negative quantifiers, and n-words; (b) the status of expletive negation; and (c) the relation between explicit and implicit negations. Theoretical as
-well as experimental approaches are welcome, as well as data from a variety of languages.
+The closely related fields of computational and mathematical linguistics seek to bring the formal tools of computer science and mathematics into the realm of language. Such tools enable researchers in these fields to abstract away from framework-specific analyses, and hone in on the underlying patterns seen throughout natural language. While these fields are not often associated with modern theoretical linguistics, we invite abstracts specifically pertaining to the computational/mathematical properties of language in any linguistic subfield (e.g. morphology), as we believe these properties have much to inform theory.
 
-#### <u>Language Endangerment: Causes and Interventions</u>
+#### <u>Cross-linguistic Quantification</u>
 
-The study of language endangerment lies at the intersection of numerous areas of research, including (but not limited to): language policy, language attitudes and ideology, and language shift. We welcome all
-submissions that explore the root causes of endangerment, as well as those that attend to the
-methodologies of documentation and revitalization. We are also interested in submissions
-that evaluate how best to treat data from endangered languages in established theoretical
-frameworks.
+The semantics of the English quantificational system has been analyzed in great detail in a number of different theoretical frameworks. Non-English languages, however, use a wide range of strategies to express quantificational meaning, with markedly different syntax, morphology, and compositional semantics from their English counterparts. Relevant issues in the cross-linguistic analysis of quantification include but are not limited to (a) the scopal behavior of quantifiers; (b) the interaction of quantification with negation, genericity, and other phenomena; and (c) distributivity and cumulativity. We particularly welcome submissions to do with the analysis of quantification in non-English languages, with special interest in non-Indo-European languages.
 
-#### <u>Language Change</u>
+#### <u>East Asian Linguistics</u>
 
-Knowledge of how languages have changed over time can contribute
-much to our understanding of synchronic systems. We therefore urge submissions grounded
-in a diachronic perspective, which may include linguistic reconstruction, methods in modeling change, historical linguistics, linguistic typology, sociolinguistic approaches to change,
-language variation, and language contact. Submissions that engage new methodologies of
-reconstruction, or the reconstruction of understudied languages and families, are especially
-encouraged.
+East Asian languages have continued to offer unique opportunities for shaping theories in generative grammar initially developed primarily on Western languages. For this reason, we especially welcome submissions which present formal analysis on any synchronic aspect of the syntax, morphology, semantics, pragmatics, and phonology of an East Asian language. Both theoretical and experimental works are welcome, provided that they have implications for linguistic theory.
 
-#### <u>Features and Metafeatures</u>
+#### <u>Intonation and Prosody</u>
 
-Formal linguists from a variety of subfields have long endeav-
-ored to decompose grammatical categories into atomic, context-free features. The features
-that characterize categories such as person, number, and gender appear to exhibit `metafeatures': they may be binary or privative in their valence; marked or unmarked in their values;
-dominant or dominated in their positions within hierarchies; recursive or nonrecursive in
-their application. Certain categories appear to resist degradation into abstract primitives,
-to include noun classes, social deixis, and perhaps case. We wish to attract submissions
-that examine: (a) the architecture of morphosyntactic (meta)features (e.g., filters, geometries, valencies); (b) the limits of featural reductionism; (c) the syntactic, semantic, and/or
-cognitive consequences of particular feature systems.
+The study of how speech sounds relate to one another beyond the segmental level informs us about not only the architecture of sound structures, but also how phonology relates to the other aspects of grammar, and how this plays out in the production and perception of language. We invite submissions that examine various aspects of intonation and prosody, including but not limited to (a) language-specific intonational phonologies; (b) phonetic and phonological correlates of intonation and prosody; (c) the interface between prosody and syntax, semantics, and pragmatics; and (d) the effect of prosody on language processing. We welcome both experimental and theoretical approaches, as well as data from a variety of languages.
+
+#### <u>Sign Language Linguistics</u>
+
+Sign language linguistics provides a unique means of exploring cross-modal effects on linguistic systems, iconicity, and language emergence.  We invite submissions that pertain to sign-specific issues and those that contribute to any linguistic subfields or their interfaces. Cross-linguistic research is especially welcome as well as interdisciplinary papers in neighboring fields, including psychology and cognitive science.
 
 
 ## Abtract Guidelines
@@ -53,17 +39,21 @@ automatically rejected. Abstracts will be evaluated under a two-tiered system in
 2. Include paper title and keywords (i.e., CLS session title, linguistic subfield(s), language(s)/ language family) in the abstract.
 3. Limit abstracts to two letter-sized or A4 pages in length, inclusive of data and references. Use one-inch margins and a font size no smaller than 11 points. Incorporate data into the main text of the abstract, not on a separate page.
 4. Anonymize submissions by not including author name(s) in the abstract or filename. If necessary, remove author name(s) from the document properties of the PDF file.
-5. Use the [Easychair](https://www.easychair.org/conferences/?conf=cls52) platform for the submission of abstracts. 
+<!---TODO: link to EasyChair--->
+<!---5. Use the [Easychair](https://www.easychair.org/conferences/?conf=cls52) platform for the submission of abstracts.--->
+5. Use the Easychair platform for the submission of abstracts. 
 6. Restrict submissions to one individual and one joint abstract per author, or two joint abstracts per author.
 
 ## Important Dates:
 
-- <del>Submission deadline: January 3, 2016 by 11:59 PM CST
-- Extended deadline: January 10, 2016 by 11:59 PM CST
-- Notification: February 23, 2016
-- Conference dates: April 21-23, 2016
+<!---TODO: new dates--->
+- Submission deadline: February 5, 2017 by 11:59 PM CST
+<!---<del>Submission deadline: January 3, 2016 by 11:59 PM CST--->
+<!---Extended deadline: January 10, 2016 by 11:59 PM CST--->
+- Notification: March 24, 2017
+- Conference dates: May 25-27, 2017
 
-For questions, please contact us at: <clsfiftytwo@gmail.com>
+For questions, please contact us at: <clsconf53@gmail.com>
 
 
 

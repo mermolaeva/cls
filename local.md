@@ -7,7 +7,7 @@ title: Local Information
 
 ## Accommodation
 
-**[Hyatt Place Chicago-South](http://www.chicagosouthuniversity.place.hyatt.com/en/hotel/home)**
+**[Hyatt Place Chicago-South](http://www.chicagosouthuniversity.place.hyatt.com/en/hotel/home)**:
 
 We suggest that conference attendees stay at the Hyatt in Hyde Park because of its convenient location for the conference:
 
@@ -25,7 +25,7 @@ Budget-minded participants might also want to consider options like [Airbnb](htt
 **Crash space**:
 
 Limited numbers of couches, futons and hide-a-beds are available from 
-students in the University of Chicago community. Please [contact CLS](mailto:clsfiftytwo@gmail.com) for details.
+students in the University of Chicago community. Please [contact CLS](mailto:clsconf53@gmail.com) for details.
 
 ## Transportation
 

@@ -11,7 +11,7 @@ title: Conference
 
 ## Dates
 
-**Dates**: April 21-23, 2016
+**Dates**: May 25-27, 2017
 
 ## Venue
 
@@ -26,6 +26,7 @@ style="border:0"
 allowfullscreen>
 </iframe>
 
+<!---
 ## Program
 
 The conference program is available for [download]({{ site.baseurl }}/public/cls52program.pdf).
@@ -45,3 +46,4 @@ src="http://docs.google.com/gview?url=orestxherija.github.io/cls/public/cls52boo
 style="width:100%; height:920px;" 
 frameborder="1">
 </iframe>
+--->
