@@ -30,7 +30,7 @@ The study of how speech sounds relate to one another beyond the segmental level 
 Sign language linguistics provides a unique means of exploring cross-modal effects on linguistic systems, iconicity, and language emergence.  We invite submissions that pertain to sign-specific issues and those that contribute to any linguistic subfields or their interfaces. Cross-linguistic research is especially welcome as well as interdisciplinary papers in neighboring fields, including psychology and cognitive science.
 
 
-## Abtract Guidelines
+## Abstract Guidelines
 
 So that we may evaluate all submissions in a fair and equal manner, abstracts which fail to adhere to any of the following guidelines will be
 automatically rejected. Abstracts will be evaluated under a two-tiered system involving both external and internal reviewers.
@@ -39,9 +39,7 @@ automatically rejected. Abstracts will be evaluated under a two-tiered system in
 2. Include paper title and keywords (i.e., CLS session title, linguistic subfield(s), language(s)/ language family) in the abstract.
 3. Limit abstracts to two letter-sized or A4 pages in length, inclusive of data and references. Use one-inch margins and a font size no smaller than 11 points. Incorporate data into the main text of the abstract, not on a separate page.
 4. Anonymize submissions by not including author name(s) in the abstract or filename. If necessary, remove author name(s) from the document properties of the PDF file.
-<!---TODO: link to EasyChair--->
-<!---5. Use the [Easychair](https://www.easychair.org/conferences/?conf=cls52) platform for the submission of abstracts.--->
-5. Use the Easychair platform for the submission of abstracts. 
+5. Use the [Easychair](https://easychair.org/conferences/?conf=cls53) platform for the submission of abstracts.
 6. Restrict submissions to one individual and one joint abstract per author, or two joint abstracts per author.
 
 ## Important Dates:

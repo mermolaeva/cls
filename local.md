@@ -7,11 +7,11 @@ title: Local Information
 
 ## Accommodation
 
-**[Hyatt Place Chicago-South](http://www.chicagosouthuniversity.place.hyatt.com/en/hotel/home)**:
+**[Hyatt Place Chicago-South](http://www.chicagosouthuniversity.place.hyatt.com/en/hotel/home.html)**:
 
 We suggest that conference attendees stay at the Hyatt in Hyde Park because of its convenient location for the conference:
 
-[Hyatt Place Chicago-South](http://www.chicagosouthuniversity.place.hyatt.com/en/hotel/home) <br>
+[Hyatt Place Chicago-South](http://www.chicagosouthuniversity.place.hyatt.com/en/hotel/home.html) <br>
 (773) 752-5300 <br>
 5225 South Harper Avenue <br>
 Chicago IL 60615
