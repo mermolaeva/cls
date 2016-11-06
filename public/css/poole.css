@@ -231,7 +231,7 @@ img {
   display: block;
   max-width: 60%;
   margin: 0 0 0.4rem;
-  border-radius: 5px;
+  border-radius: 0px;
 }
 
 /* Tables */
