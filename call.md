@@ -32,8 +32,7 @@ Sign language linguistics provides a unique means of exploring cross-modal effec
 
 ## Abstract Guidelines
 
-So that we may evaluate all submissions in a fair and equal manner, abstracts which fail to adhere to any of the following guidelines will be
-automatically rejected. Abstracts will be evaluated under a two-tiered system involving both external and internal reviewers.
+So that we may evaluate all submissions in a fair and equal manner, abstracts which fail to adhere to any of the following guidelines will be automatically rejected. Abstracts will be evaluated under a two-tiered system involving both external and internal reviewers.
 
 1. Submit your abstract(s) in PDF format with filename PaperTitle.pdf (e.g., Prosodic_Form_and_Discourse_Function.pdf).
 2. Include paper title and keywords (i.e., CLS session title, linguistic subfield(s), language(s)/ language family) in the abstract.
@@ -44,10 +43,7 @@ automatically rejected. Abstracts will be evaluated under a two-tiered system in
 
 ## Important Dates:
 
-<!---TODO: new dates--->
 - Submission deadline: February 5, 2017 by 11:59 PM CST
-<!---<del>Submission deadline: January 3, 2016 by 11:59 PM CST--->
-<!---Extended deadline: January 10, 2016 by 11:59 PM CST--->
 - Notification: March 24, 2017
 - Conference dates: May 25-27, 2017
 
