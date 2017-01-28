@@ -20,7 +20,7 @@ Chicago IL 60615
 
 This large hostel is located in down-town Chicago at Congress and Wabash. Room rates start at $34 a night, with free breakfast.
 
-Budget-minded participants might also want to consider options like [Airbnb](https://www.airbnb.com/) and [Couchsurfing](https://www.couchsurfing.com/).
+Budget-minded participants might also want to consider options like [Airbnb](https://www.airbnb.com/s/Chicago--IL) and [Couchsurfing](https://www.couchsurfing.com/).
 
 **Crash space**:
 
