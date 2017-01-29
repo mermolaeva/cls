@@ -43,7 +43,8 @@ So that we may evaluate all submissions in a fair and equal manner, abstracts wh
 
 ## Important Dates:
 
-- Submission deadline: February 5, 2017 by 11:59 PM CST
+- <del>Submission deadline: February 5, 2017 by 11:59 PM CST
+- Extended deadline: February 12, 2017 by 11:59 PM CST
 - Notification: March 24, 2017
 - Conference dates: May 25-27, 2017
 
