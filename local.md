@@ -24,12 +24,12 @@ Budget-minded participants might also want to consider options like [Airbnb](htt
 
 **Crash space**:
 
-Limited numbers of couches, futons and hide-a-beds are available from 
-students in the University of Chicago community. Please [contact CLS](mailto:clsconf53@gmail.com) for details.
+Limited numbers of couches, futons and hide-a-beds are available from
+students in the University of Chicago community. Please [contact CLS](mailto:chicagolinguisticsociety.cls54@gmail.com) for details.
 
 ## Transportation
 
-The Hyde Park Hyatt is a short walk from campus. Hostelling International Chicago is one block from the Metra train station at Michigan Ave. and Van Buren Street.  The train ride is about  15 minutes to the 59th Street Station on the campus of University of 
+The Hyde Park Hyatt is a short walk from campus. Hostelling International Chicago is one block from the Metra train station at Michigan Ave. and Van Buren Street.  The train ride is about  15 minutes to the 59th Street Station on the campus of University of
 Chicago. See the [transportation map](http://metrarail.com/metra/en/home/maps_schedules/metra_system_map/me/map.html).
 
 **Parking on campus**: Street parking is free in Hyde Park, but [campus parking](http://maps.uchicago.edu/directions/parking/) is also available.
