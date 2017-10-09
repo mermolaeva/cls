@@ -15,4 +15,5 @@ title: Links
 - [The Linguistica Project](http://linguistica.uchicago.edu)
 - [Workshop on Language Variation and Change](http://cas.uchicago.edu/workshops/lvc/)
 - [Workshop in Linguistics and Philosophy](https://cas.uchicago.edu/workshops/semantics/)
+- [Morphology and Syntax Workshop](https://voices.uchicago.edu/morphologyandsyntax/)
 - [Workshop on Language, Cognition, and Computation](http://home.uchicago.edu/~jsllee/lcc/)

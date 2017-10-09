@@ -33,7 +33,7 @@ So that we may evaluate all submissions in a fair and equal manner, abstracts wh
 2. Include paper title and keywords (i.e., CLS session title, linguistic subfield(s), language(s)/ language family) in the abstract.
 3. Limit abstracts to two letter-sized or A4 pages in length, inclusive of data and references. Use one-inch margins and a font size no smaller than 11 point. Incorporate data into the main text of the abstract, not on a separate page.
 4. Anonymize submissions by not including author name(s) in the abstract or filename. If necessary, remove author name(s) from the document properties of the PDF file.
-5. Use the [Easychair](https://easychair.org/conferences/?conf=cls53) platform for the submission of abstracts.
+5. Use the [Easychair](https://easychair.org/conferences/?conf=cls54) platform for the submission of abstracts.
 6. Restrict submissions to one individual and one joint abstract per author, or two joint abstracts per author.
 
 ## Important Dates:
