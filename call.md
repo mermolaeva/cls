@@ -38,8 +38,8 @@ So that we may evaluate all submissions in a fair and equal manner, abstracts wh
 
 ## Important Dates:
 
-<!-- - <del>Submission deadline: February 5, 2017 by 11:59 PM CST -->
-- Submission deadline: January 8, 2018 by 11:59 PM CST
+<!-- - Submission deadline: January 8, 2018 by 11:59 PM CST -->
+- Submission deadline: <del>January 8, </del> January 15, 2018 by 11:59 PM CST
 - Notification: February 26, 2018
 - Conference dates: April 26-28, 2018
 
