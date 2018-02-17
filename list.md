@@ -8,7 +8,7 @@ Proceedings from most of our conferences are available for sale through CLS. We 
 Chicago Linguistic Society<br />
 1115 East 58th Street <br />
 Rosenwald 224<br/>
-Chicago, IL 60637 
+Chicago, IL 60637
 United States of America <br />
 
 Upon receiving your order, we will send an invoice indicating the final price including shipping. Please do not send payment without first having received an invoice. We accept cash and checks, but not credit cards.
@@ -23,6 +23,21 @@ Shipping and handling **within the United States** is $3 for the first book and 
     <th align="center">Volume</th>
     <th align="left">Title</th>
     <th align="center">Price</th>
+  </tr>
+  <tr>
+    <td align="center">52</td>
+    <td align="left">Conference 2016; Published 2017</td>
+    <td align="center">$90</td>
+  </tr>
+  <tr>
+    <td align="center">51</td>
+    <td align="left">Conference 2015; Published 2016</td>
+    <td align="center">$80</td>
+  </tr>
+  <tr>
+    <td align="center">50</td>
+    <td align="left">Conference 2014; Published 2016</td>
+    <td align="center">$80</td>
   </tr>
   <tr>
     <td align="center">49</td>
@@ -185,7 +200,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
   <tr>
     <td align="center">33-2</td>
     <td align="left">
-    	<b>Parassession Topic</b>: <br> 
+    	<b>Parassession Topic</b>: <br>
     	Universal Grammar, Parameters and Typology the Perception of Speech and other Acoustic Signals
    </td>
     <td align="center">$20</td>
@@ -198,7 +213,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
   <tr>
     <td align="center">32-2</td>
     <td align="left">
-    	<b>Parassession Topic</b>: <br> 
+    	<b>Parassession Topic</b>: <br>
     	Theory and Data in Linguistics
    </td>
     <td align="center">$20</td>
@@ -211,7 +226,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
   <tr>
     <td align="center">31-2</td>
     <td align="left">
-    	<b>Parassession Topic</b>: <br> 
+    	<b>Parassession Topic</b>: <br>
     	Clitics
    </td>
     <td align="center">Out of Print</td>
@@ -224,7 +239,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
   <tr>
     <td align="center">30-2</td>
     <td align="left">
-    	<b>Parassession Topic</b>: <br> 
+    	<b>Parassession Topic</b>: <br>
     	Variation and Linguistic Theory
    </td>
     <td align="center">$20</td>
@@ -237,7 +252,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
   <tr>
     <td align="center">29-2</td>
     <td align="left">
-    	<b>Parassession Topic</b>: <br> 
+    	<b>Parassession Topic</b>: <br>
     	Conceptual, Semantic & Grammatical Representation
    </td>
     <td align="center">$20</td>
@@ -428,6 +443,3 @@ Shipping and handling **within the United States** is $3 for the first book and 
 
 
 </table>
-
-
-
