@@ -10,11 +10,13 @@ title: Local Information
 
 There are two airports in Chicago, find below some information about how to get to our campus in Hyde Park from them.
 
-### Chicago Midway International Airport (MDW):<br>
+### Chicago Midway International Airport (MDW):
+
 Bus \#55 (roughly 45 min) <br>
 Uber/Taxi (roughly 25 min)
 
-###Chicago O'Hare International Airport (ORD): <br>
+### Chicago O'Hare International Airport (ORD):
+
 Blue Line (O’Hare → Jackson, 19 stops) → Bus #6 or Bus #2 (roughly 1h 30 min) <br>
 Uber/Taxi (roughly 45 min) <br>
 <br>
@@ -22,14 +24,15 @@ Uber/Taxi (roughly 45 min) <br>
 
 ## Accommodation
 
-###[Hyatt Place Chicago-South](https://chicagosouthuniversity.place.hyatt.com/en/hotel/home.html):
+### [Hyatt Place Chicago-South](https://chicagosouthuniversity.place.hyatt.com/en/hotel/home.html):
+
 (773) 752-5300 <br>
 5225 South Harper Avenue <br>
 Chicago IL 60615
 
 We suggest that conference attendees stay at the Hyatt in Hyde Park because of its convenient location for the conference:
 
-###[Hostelling International Chicago](http://hichicago.org/):
+### [Hostelling International Chicago](http://hichicago.org/):
 
 This large hostel is located in down-town Chicago at Congress and Wabash. Room rates start at $34 a night, with free breakfast.
 
@@ -46,10 +49,12 @@ students in the University of Chicago community. Please [contact CLS](mailto:chi
 ## Transportation around campus
 
 ### Hotels to campus:
+
 The Hyde Park Hyatt is a short walk from campus. Hostelling International Chicago is one block from the Metra train station at Michigan Ave. and Van Buren Street.  The train ride is about  15 minutes to the 59th Street Station on the campus of University of
 Chicago. See the [transportation map](http://metrarail.com/metra/en/home/maps_schedules/metra_system_map/me/map.html).
 
 ### Parking on campus:
+
 Street parking is free in Hyde Park, but [campus parking](http://maps.uchicago.edu/directions/parking/) is also available.
 
 <br>
