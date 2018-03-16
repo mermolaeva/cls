@@ -30,11 +30,11 @@ Uber/Taxi (roughly 45 min) <br>
 5225 South Harper Avenue <br>
 Chicago IL 60615
 
-University of Chicago Friend & Family Discounts:<br>
+<!-- University of Chicago Friend & Family Discounts:<br>
 Book [online](https://chicagosouthuniversity.place.hyatt.com/en/hotel/home.html?corp_id=58415): Enter preferred dates of stay and click 'Check Availability' <br>
-Book by phone: 1.888.591.1234 (Request Rate Code: UNCH)
+Book by phone: 1.888.591.1234 (Request Rate Code: UNCH) -->
 
-We suggest that conference attendees stay at the Hyatt in Hyde Park because of its convenient location for the conference.
+We suggest that conference attendees stay at the Hyatt in Hyde Park because of its convenient location for the conference (ps: email us for UChicago Friend & Family Discounts!).
 
 ### [Hostelling International Chicago](http://hichicago.org/):
 
