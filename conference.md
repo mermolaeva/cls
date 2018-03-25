@@ -26,6 +26,251 @@ style="border:0"
 allowfullscreen>
 </iframe>
 
+## Program
+
+The conference program is available for [download]({{ site.baseurl }}/public/CLS54_program.pdf).
+
+<br>
+
+
+## List of abstracts
+
+The abstracts of all the presentations are available here.
+
+###Day 1 (April 26)
+
+Parameters of Deísmo in ECM Structures: Evidence from Romance  <br>
+Lorena Castillo & Ángel J. Gallego
+
+<a href="{{ site.baseurl }}/public/short/2.pdf" title="conference schedule">PRO as a Partial Copy A movement based account of Control </a> <br>
+Abdul-Razak Sulemana
+
+<a href="{{ site.baseurl }}/public/short/3.pdf" title="conference schedule">On Multiple Right- dislocation in Japanese </a> <br>
+Toru Ishii
+
+
+<a href="{{ site.baseurl }}/public/short/4.pdf" title="conference schedule">English expletives there and it originate low: Evidence from ellipsis </a> <br>
+Danfeng Wu
+
+The dual face of dependent case: On Lithuanian genitive of negation  <br>
+Einar Freyr Sigurðsson & Milena Šereikaite
+
+
+<a href="{{ site.baseurl }}/public/short/Iordachioaia-CLS54-abstract.pdf" title="conference schedule">English deverbal compounds with and without arguments </a> <br>
+Gianina Iordachioaia
+
+
+
+<a href="{{ site.baseurl }}/public/short/CLS with names.pdf" title="conference schedule">Pronoun-noun constructions in Malagasy across time and space  </a> <br>
+Ileana Paul & Lisa Travis
+
+
+Ergative Absolutive Case Markers in Bitterroot Salish  <br>
+Ana Alonso
+
+Preference for single events guides perception in Russian: A phoneme restoration study <br>
+Jesse Harris & Natasha Korotkova
+
+<a href="{{ site.baseurl }}/public/short/wilson.pdf" title="conference schedule">The Dative Illusion as an Argument for Lexicalist Argument Structure </a> <br>
+Michael Wilson
+
+
+<a href="{{ site.baseurl }}/public/short/bes.pdf" title="conference schedule">The discourse status of existential implicit arguments: Investigating referent accessibility through sluicing </a> <br>
+Ana Besserman & Elsi Kaiser
+
+<a href="{{ site.baseurl }}/public/short/5.pdf" title="conference schedule">Quantified Sentences as a Window into Prediction and Priming: An ERP Study </a> <br>
+Aniello De Santo, Jonathan Rawski & John E. Drury
+
+<a href="{{ site.baseurl }}/public/short/6.pdf" title="conference schedule">Contextual, lexical, and structural factors licensing Mention-Some embedded questions </a> <br>
+Morgan Moyer & Kristen Syrett
+
+Uncovering bias in Estonian negative polar questions: An experimental study <br>
+Thomas Roberts
+
+Beyond Principle C: (Not)-at-issueness and plausibility influence acceptability of coconstrual <br>
+Vera Gor & Kristen Syrett
+
+<a href="{{ site.baseurl }}/public/short/7.pdf" title="conference schedule">Approaching the pragmatics of exclamations experimentally </a> <br>
+Andreas Trotzke
+
+
+Exceed-comparative languages and the degree abstraction parameter <br>
+Emily Clem
+
+
+
+<a href="{{ site.baseurl }}/public/short/Green-CLS2018-temporal_adjuncts.pdf" title="conference schedule"> Non-subject control of temporal adjuncts </a> <br>
+Jeffrey Green
+
+
+
+<a href="{{ site.baseurl }}/public/short/CLS2018–Jackfruit.pdf" title="conference schedule"> Testing the real-time status of covert movement of wh-operators and QPs in English </a> <br>
+Austin Kraft, Jonathon Coltz & Dustin Chacón
+
+Defying Definition: Evidence of a Co-Grammar of Interjections <br>
+Naomi Kurtz & Jason Riggle
+
+
+<a href="{{ site.baseurl }}/public/short/Equatives_Are_Not_All_Equal(CLS 54).pdf" title="conference schedule">Equatives Are Not All Equal: A Correlative Analysis of Scalar Equatives in Mandarin </a> <br>
+Qiongpeng Luo & Yuzhen Cao
+
+
+
+<a href="{{ site.baseurl }}/public/short/Rachel Rudolph.pdf" title="conference schedule">Appearance Reports and the Acquaintance Inference </a> <br>
+Rachel Rudolph
+
+
+
+
+<a href="{{ site.baseurl }}/public/short/Martinez Vera, Gabriel - Bringing creation predicates and degree achievements together(rev).pdf" title="conference schedule">Bringing creation predicates and degree achievements together: Evidence from Aymara </a> <br>
+Gabriel Martinez Vera
+
+
+
+###Day 2 (April 27)
+
+A longitudinal study of a socially- and geographically-mobile Chicagoan <br>
+Lewis Esposito
+
+<a href="{{ site.baseurl }}/public/short/HIROAKI Saito.pdf" title="conference schedule">Grammaticalization and the Root & Category Theory </a> <br>
+Hiroaki Saito
+
+The für in was für: historic evidence against was für as wh-modification <br>
+Melanie Hobich
+
+<a href="{{ site.baseurl }}/public/short/ChandleeJardine.pdf" title="conference schedule">Computational Locality and Autosegmental Processes </a> <br>
+Jane Chandlee & Adam Jardine
+
+
+<a href="{{ site.baseurl }}/public/short/Chickpea_CLS2018_NonAnonymous.pdf" title="conference schedule">Real Time Status of Semantic Exceptions to the Adjunct Island Constraint </a> <br>
+Annika Kohrt & Trey Sorensen, Dustin Chacón
+
+
+<a href="{{ site.baseurl }}/public/short/Green-CLS2018-Processing_control.pdf" title="conference schedule">Processing adjunct control: Rapid use of structural information in reference resolution </a> <br>
+Jeffrey Green, Michael McCourt, Ellen Lau & Alexander Williams
+
+
+Licensing SOV in Estonian: A naturalness rating study <br>
+Marju Kaps
+
+
+Asymmetries in voice-mismatched VP-ellipsis <br>
+Till Poppels & Andrew Kehler
+
+
+<a href="{{ site.baseurl }}/public/short/grano_cls54.pdf" title="conference schedule">Belief, Intention, and the Grammar of Persuasion </a> <br>
+Thomas Grano
+
+
+Counting on a verbal dimension: verbal classifiers in Mandarin Chinese <br>
+Ang Li
+
+<a href="{{ site.baseurl }}/public/short/Pseudo_wh-copying_as_wh-slifting_PANKAU.pdf" title="conference schedule">Pseudo wh-copying as wh-slifting </a><br>
+Andreas Pankau
+
+<a href="{{ site.baseurl }}/public/short/Yuta Tatsumi.pdf" title="conference schedule">Excorporation and V-V compound ellipsis in Japanese </a><br>
+Yuta Tatsumi
+
+<a href="{{ site.baseurl }}/public/short/abstract_MizunoKaufmann.pdf" title="conference schedule">Past-as-Past in Japanese counterfactuals </a><br>
+Teruyuki Mizuno & Stefan Kaufmann
+
+
+<a href="{{ site.baseurl }}/public/short/gonzalez pesetsky cls abstract.pdf" title="conference schedule">Suppose Epistemic Contradictions Might Not Be Contradictions </a><br>
+Saúl Fernández González & Jonathan Pesetsky
+
+
+<a href="{{ site.baseurl }}/public/short/SortalVsRelationalNounsInConcealedQuestions.pdf" title="conference schedule">Sortal versus relational nouns in concealed questions: A pragmatic solution </a><br>
+Hana Möller Kalpak
+
+<a href="{{ site.baseurl }}/public/short/Paradoxical desires On counterfactual displacement of German wünschen.pdf" title="conference schedule">Paradoxical desires: On counterfactual displacement of German ’wünschen’ </a><br>
+Alexander Wimmer
+
+
+The Neuter Agreement Constraint in Lithuanian <br>
+Luke Adamson & Milena Šereikaite
+
+
+The Gender Features in Spanish-English Code- Switching Contexts <br>
+Abel Cruz Flores
+
+Graded Biconditionality and Reasoning <br>
+Mingya Liu
+
+
+<a href="{{ site.baseurl }}/public/short/Lucia M. Tovena.pdf" title="conference schedule">Ratios as distributive relations over matching events </a><br>
+Lucia Tovena & Mara Panaitescu
+
+
+Covert Segregation: Dialect Discrimination in the Housing Market <br>
+Kelly E. Wright
+
+
+<a href="{{ site.baseurl }}/public/short/AnqiZhangCLS54.pdf" title="conference schedule">Transitive-Intransitive Alternations in Japanese  </a><br>
+Anqi Zhang
+
+
+###Day 3 (April 28)
+
+Verb-Stranding Verb Phrase Ellipsis in Russian: Evidence from Unpronounced Subjects <br>
+Rafael Abramovitz
+
+
+The (un)availability of idiomatic readings in Persian light verb-stranding ellipses <br>
+Ryan Walter Smith, Rana Nabors, Roya Kabiri, Simin Karimi & Heidi Harley
+
+
+Exceptives: An Under-Appreciated Ellipsis Construction<br>
+Eric Potsdam
+
+
+The Syntax of (Non-) reduced Why-Interrogatives <br>
+Anissa Zaitsu
+
+
+Sluicing in Kathmandu Newari: Evidence from the Effect of Island Repairing <br>
+Borui Zhang
+
+<a href="{{ site.baseurl }}/public/short/On_sluicing_and_its kin_Evidence_from_Egyptian_Arabic_Usama_Soltan.pdf" title="conference schedule"> On sluicing and its kin: Evidence from Egyptian Arabic </a> <br>
+Usama Soltan
+
+
+Sluicing-like Constructions in Turkish <br>
+Bilge Palaz
+
+Perspectives under Ellipsis <br>
+Rong Yin & Jeremy Hartman
+
+
+<a href="{{ site.baseurl }}/public/short/The_two_lives_of_zero.pdf" title="conference schedule">The two lives of zero: numeral, intensification, and scale boundary </a> <br>
+Sherry Yong Chen
+
+<a href="{{ site.baseurl }}/public/short/Chen - abstract with names and institutions.pdf" title="conference schedule">On the morpho-semantic puzzle of superlative modifiers </a> <br>
+Yi-Hsun Chen
+
+Expressive modifiers of manner and degree <br>
+Rebekah Baglini
+
+
+Determiner spreading and modification in Kipsigis  <br>
+Maria Kouneli
+
+Flavors of predicate modification <br>
+Vesela Simeonova
+
+
+<a href="{{ site.baseurl }}/public/short/Alrenga_CLSAbstract.pdf" title="conference schedule">Emphatic vs. Exclusive Modification by ‘Single’: A Unified Approach  </a><br>
+Peter Alrenga
+
+
+Listener responses to co-articulation: Solving the “Use it or Lose it” problem <br>
+Anne Pycha & Georgia Zellou
+
+Syllable count judgments: relating gestural composition and syllable weight <br>
+Anisia Popescu
+
+
+
+
 <!---
 ## Program
 
