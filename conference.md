@@ -87,8 +87,9 @@ Morgan Moyer & Kristen Syrett
 Uncovering bias in Estonian negative polar questions: An experimental study <br>
 Thomas Roberts
 
-Beyond Principle C: (Not)-at-issueness and plausibility influence acceptability of coconstrual <br>
+<a href="{{ site.baseurl }}/public/short/gor&syrett_cls18.pdf" title="conference schedule"> Beyond Principle C: (Not)-at-issueness and plausibility influence acceptability of coconstrual </a><br>
 Vera Gor & Kristen Syrett
+
 
 <a href="{{ site.baseurl }}/public/short/7.pdf" title="conference schedule">Approaching the pragmatics of exclamations experimentally </a> <br>
 Andreas Trotzke
@@ -215,11 +216,11 @@ Verb-Stranding Verb Phrase Ellipsis in Russian: Evidence from Unpronounced Subje
 Rafael Abramovitz
 
 
-The (un)availability of idiomatic readings in Persian light verb-stranding ellipses <br>
+<a href="{{ site.baseurl }}/public/short/persian_vpe_psg_cls.pdf" title="conference schedule">The (un)availability of idiomatic readings in Persian light verb-stranding ellipses </a> <br>
 Ryan Walter Smith, Rana Nabors, Roya Kabiri, Simin Karimi & Heidi Harley
 
 
-Exceptives: An Under-Appreciated Ellipsis Construction<br>
+<a href="{{ site.baseurl }}/public/short/Potsdam abstract.pdf" title="conference schedule">Exceptives: An Under-Appreciated Ellipsis Construction </a> <br>
 Eric Potsdam
 
 
@@ -227,10 +228,10 @@ The Syntax of (Non-) reduced Why-Interrogatives <br>
 Anissa Zaitsu
 
 
-Sluicing in Kathmandu Newari: Evidence from the Effect of Island Repairing <br>
+<a href="{{ site.baseurl }}/public/short/SluicingKathmanduNewari-BZ.pdf" title="conference schedule">Sluicing in Kathmandu Newari: Evidence from the Effect of Island Repairing </a> <br>
 Borui Zhang
 
-<a href="{{ site.baseurl }}/public/short/On_sluicing_and_its kin_Evidence_from_Egyptian_Arabic_Usama_Soltan.pdf" title="conference schedule"> On sluicing and its kin: Evidence from Egyptian Arabic </a> <br>
+<a href="{{ site.baseurl }}/public/short/On_sluicing_and_its kin_Evidence_from_Egyptian_Arabic_Usama_Soltan.pdf" title="conference schedule">On sluicing and its kin: Evidence from Egyptian Arabic </a> <br>
 Usama Soltan
 
 
