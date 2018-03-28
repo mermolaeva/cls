@@ -37,7 +37,7 @@ The conference program is available for [download]({{ site.baseurl }}/public/CLS
 
 The abstracts of all the presentations are available here.
 
-###Day 1 (April 26)
+### Day 1 (April 26)
 
 Parameters of Deísmo in ECM Structures: Evidence from Romance  <br>
 Lorena Castillo & Ángel J. Gallego
@@ -95,7 +95,7 @@ Vera Gor & Kristen Syrett
 Andreas Trotzke
 
 
-Exceed-comparative languages and the degree abstraction parameter <br>
+<a href="{{ site.baseurl }}/public/short/clem-cls54-degree-abstraction.pdf" title="conference schedule">Exceed-comparative languages and the degree abstraction parameter </a><br>
 Emily Clem
 
 
@@ -128,7 +128,7 @@ Gabriel Martinez Vera
 
 
 
-###Day 2 (April 27)
+### Day 2 (April 27)
 
 A longitudinal study of a socially- and geographically-mobile Chicagoan <br>
 Lewis Esposito
@@ -187,14 +187,14 @@ Hana Möller Kalpak
 Alexander Wimmer
 
 
-The Neuter Agreement Constraint in Lithuanian <br>
+<a href="{{ site.baseurl }}/public/short/Abstract Lithuanian Neuters.pdf" title="conference schedule">The Neuter Agreement Constraint in Lithuanian </a> <br>
 Luke Adamson & Milena Šereikaite
 
 
 The Gender Features in Spanish-English Code- Switching Contexts <br>
 Abel Cruz Flores
 
-Graded Biconditionality and Reasoning <br>
+<a href="{{ site.baseurl }}/public/short/CLS54_abstract_Mingya Liu.pdf" title="conference schedule">Graded Biconditionality and Reasoning </a> <br>
 Mingya Liu
 
 
@@ -210,7 +210,7 @@ Kelly E. Wright
 Anqi Zhang
 
 
-###Day 3 (April 28)
+### Day 3 (April 28)
 
 Verb-Stranding Verb Phrase Ellipsis in Russian: Evidence from Unpronounced Subjects <br>
 Rafael Abramovitz
@@ -252,7 +252,7 @@ Expressive modifiers of manner and degree <br>
 Rebekah Baglini
 
 
-Determiner spreading and modification in Kipsigis  <br>
+<a href="{{ site.baseurl }}/public/short/Determiner_spreading_and_modification_in_Kipsigis.pdf" title="conference schedule">Determiner spreading and modification in Kipsigis </a>  <br>
 Maria Kouneli
 
 Flavors of predicate modification <br>
@@ -266,7 +266,7 @@ Peter Alrenga
 Listener responses to co-articulation: Solving the “Use it or Lose it” problem <br>
 Anne Pycha & Georgia Zellou
 
-Syllable count judgments: relating gestural composition and syllable weight <br>
+<a href="{{ site.baseurl }}/public/short/CLS54_180_affiliation.pdf" title="conference schedule">Syllable count judgments: relating gestural composition and syllable weight </a><br>
 Anisia Popescu
 
 
