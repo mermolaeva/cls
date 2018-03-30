@@ -52,7 +52,7 @@ Toru Ishii
 <a href="{{ site.baseurl }}/public/short/4.pdf" title="conference schedule">English expletives there and it originate low: Evidence from ellipsis </a> <br>
 Danfeng Wu
 
-The dual face of dependent case: On Lithuanian genitive of negation  <br>
+<a href="{{ site.baseurl }}/public/short/LithuanianGenitiveOfNegation.pdf" title="conference schedule">The dual face of dependent case: On Lithuanian genitive of negation </a> <br>
 Einar Freyr Sigurðsson & Milena Šereikaite
 
 
@@ -155,7 +155,7 @@ Licensing SOV in Estonian: A naturalness rating study <br>
 Marju Kaps
 
 
-Asymmetries in voice-mismatched VP-ellipsis <br>
+<a href="{{ site.baseurl }}/public/short/deanonymized-abstract-cls-2018.pdf" title="conference schedule">Asymmetries in voice-mismatched VP-ellipsis </a> <br>
 Till Poppels & Andrew Kehler
 
 
@@ -212,7 +212,10 @@ Anqi Zhang
 
 ### Day 3 (April 28)
 
-Verb-Stranding Verb Phrase Ellipsis in Russian: Evidence from Unpronounced Subjects <br>
+
+
+
+<a href="{{ site.baseurl }}/public/short/verb_stranding_verb_phrase_ellipsis_in_russian_evidence_from_unpronounced_subjects.pdf" title="conference schedule">Verb-Stranding Verb Phrase Ellipsis in Russian: Evidence from Unpronounced Subjects </a> <br>
 Rafael Abramovitz
 
 
