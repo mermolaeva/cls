@@ -35,11 +35,38 @@ The conference program is available for [download]({{ site.baseurl }}/public/CLS
 
 ## List of abstracts
 
-The abstracts of all the presentations are available here.
+The abstracts of all the presentations are available (to be updated) here.
 
 ### Day 1 (April 26)
 
-Parameters of Deísmo in ECM Structures: Evidence from Romance  <br>
+<html>
+   <head>
+      <style type="text/css">
+         body {
+            padding: 1in;
+         }
+         .square {
+            background-color: #FFF5EE;
+            width: "100%";
+            height: 4cm;
+            border: 0px solid black;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="square"><a href="{{ site.baseurl }}/public/short/susi.pdf" title="conference schedule"> Cross-clausal A-dependencies </a> <br>
+      Invited Speaker: Susi Wurmbrand (UConn & Universität Wien) <br>
+<br>
+      <a href="{{ site.baseurl }}/public/short/hannah.pdf" title="conference schedule"> Why are you telling me this?  Relevance and informativity in language processing </a> <br>
+      Invited Speaker: Hannah Rohde (The University of Edinburgh)
+
+</div>
+   </body>
+</html>
+
+<br>
+
+<a> Parameters of Deísmo in ECM Structures: Evidence from Romance </a> <br>
 Lorena Castillo & Ángel J. Gallego
 
 <a href="{{ site.baseurl }}/public/short/2.pdf" title="conference schedule">PRO as a Partial Copy A movement based account of Control </a> <br>
@@ -65,10 +92,10 @@ Gianina Iordachioaia
 Ileana Paul & Lisa Travis
 
 
-Ergative Absolutive Case Markers in Bitterroot Salish  <br>
+<a> Ergative Absolutive Case Markers in Bitterroot Salish  </a><br>
 Ana Alonso
 
-Preference for single events guides perception in Russian: A phoneme restoration study <br>
+<a> Preference for single events guides perception in Russian: A phoneme restoration study </a> <br>
 Jesse Harris & Natasha Korotkova
 
 <a href="{{ site.baseurl }}/public/short/wilson.pdf" title="conference schedule">The Dative Illusion as an Argument for Lexicalist Argument Structure </a> <br>
@@ -84,7 +111,7 @@ Aniello De Santo, Jonathan Rawski & John E. Drury
 <a href="{{ site.baseurl }}/public/short/6.pdf" title="conference schedule">Contextual, lexical, and structural factors licensing Mention-Some embedded questions </a> <br>
 Morgan Moyer & Kristen Syrett
 
-Uncovering bias in Estonian negative polar questions: An experimental study <br>
+<a> Uncovering bias in Estonian negative polar questions: An experimental study </a> <br>
 Thomas Roberts
 
 <a href="{{ site.baseurl }}/public/short/gor&syrett_cls18.pdf" title="conference schedule"> Beyond Principle C: (Not)-at-issueness and plausibility influence acceptability of coconstrual </a><br>
@@ -98,8 +125,6 @@ Andreas Trotzke
 <a href="{{ site.baseurl }}/public/short/clem-cls54-degree-abstraction.pdf" title="conference schedule">Exceed-comparative languages and the degree abstraction parameter </a><br>
 Emily Clem
 
-
-
 <a href="{{ site.baseurl }}/public/short/Green-CLS2018-temporal_adjuncts.pdf" title="conference schedule"> Non-subject control of temporal adjuncts </a> <br>
 Jeffrey Green
 
@@ -108,7 +133,7 @@ Jeffrey Green
 <a href="{{ site.baseurl }}/public/short/CLS2018–Jackfruit.pdf" title="conference schedule"> Testing the real-time status of covert movement of wh-operators and QPs in English </a> <br>
 Austin Kraft, Jonathon Coltz & Dustin Chacón
 
-Defying Definition: Evidence of a Co-Grammar of Interjections <br>
+<a> Defying Definition: Evidence of a Co-Grammar of Interjections </a> <br>
 Naomi Kurtz & Jason Riggle
 
 
@@ -121,8 +146,6 @@ Qiongpeng Luo & Yuzhen Cao
 Rachel Rudolph
 
 
-
-
 <a href="{{ site.baseurl }}/public/short/Martinez Vera, Gabriel - Bringing creation predicates and degree achievements together(rev).pdf" title="conference schedule">Bringing creation predicates and degree achievements together: Evidence from Aymara </a> <br>
 Gabriel Martinez Vera
 
@@ -130,13 +153,40 @@ Gabriel Martinez Vera
 
 ### Day 2 (April 27)
 
-A longitudinal study of a socially- and geographically-mobile Chicagoan <br>
+<html>
+   <head>
+      <style type="text/css">
+         body {
+            padding: 1in;
+         }
+         .square {
+            background-color: #FFF5EE;
+            width: "100%";
+            height: 4cm;
+            border: 0px solid black;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="square"><a> Ezafe, Nominalization, and the Structure of PP </a> <br>
+      Invited Speaker: Richard Larson (Stony Brook University) <br>
+<br>
+      <a> What to learn in learning word meanings </a> <br>
+      Invited Speaker: Valentine Hacquard (University of Maryland)
+
+</div>
+   </body>
+</html>
+
+<br>
+
+<a> A longitudinal study of a socially- and geographically-mobile Chicagoan </a> <br>
 Lewis Esposito
 
 <a href="{{ site.baseurl }}/public/short/HIROAKI Saito.pdf" title="conference schedule">Grammaticalization and the Root & Category Theory </a> <br>
 Hiroaki Saito
 
-The für in was für: historic evidence against was für as wh-modification <br>
+<a> The für in was für: historic evidence against was für as wh-modification </a> <br>
 Melanie Hobich
 
 <a href="{{ site.baseurl }}/public/short/ChandleeJardine.pdf" title="conference schedule">Computational Locality and Autosegmental Processes </a> <br>
@@ -151,7 +201,7 @@ Annika Kohrt & Trey Sorensen, Dustin Chacón
 Jeffrey Green, Michael McCourt, Ellen Lau & Alexander Williams
 
 
-Licensing SOV in Estonian: A naturalness rating study <br>
+<a> Licensing SOV in Estonian: A naturalness rating study </a> <br>
 Marju Kaps
 
 
@@ -163,7 +213,7 @@ Till Poppels & Andrew Kehler
 Thomas Grano
 
 
-Counting on a verbal dimension: verbal classifiers in Mandarin Chinese <br>
+<a> Counting on a verbal dimension: verbal classifiers in Mandarin Chinese </a> <br>
 Ang Li
 
 <a href="{{ site.baseurl }}/public/short/Pseudo_wh-copying_as_wh-slifting_PANKAU.pdf" title="conference schedule">Pseudo wh-copying as wh-slifting </a><br>
@@ -191,7 +241,7 @@ Alexander Wimmer
 Luke Adamson & Milena Šereikaite
 
 
-The Gender Features in Spanish-English Code- Switching Contexts <br>
+<a> The Gender Features in Spanish-English Code- Switching Contexts </a> <br>
 Abel Cruz Flores
 
 <a href="{{ site.baseurl }}/public/short/CLS54_abstract_Mingya Liu.pdf" title="conference schedule">Graded Biconditionality and Reasoning </a> <br>
@@ -202,7 +252,7 @@ Mingya Liu
 Lucia Tovena & Mara Panaitescu
 
 
-Covert Segregation: Dialect Discrimination in the Housing Market <br>
+<a> Covert Segregation: Dialect Discrimination in the Housing Market  </a><br>
 Kelly E. Wright
 
 
@@ -212,14 +262,39 @@ Anqi Zhang
 
 ### Day 3 (April 28)
 
+<html>
+   <head>
+      <style type="text/css">
+         body {
+            padding: 1in;
+         }
+         .square {
+            background-color: #FFF5EE;
+            width: "100%";
+            height: 4cm;
+            border: 0px solid black;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="square"><a> TBA </a> <br>
+      Invited Speaker: Klaus Abels (University College London) <br>
+<br>
+      <a> TBA </a> <br>
+      Invited Speaker: Marcin Morzycki (Michigan State University)
 
+</div>
+   </body>
+</html>
+
+<br>
 
 
 <a href="{{ site.baseurl }}/public/short/verb_stranding_verb_phrase_ellipsis_in_russian_evidence_from_unpronounced_subjects.pdf" title="conference schedule">Verb-Stranding Verb Phrase Ellipsis in Russian: Evidence from Unpronounced Subjects </a> <br>
 Rafael Abramovitz
 
 
-<a href="{{ site.baseurl }}/public/short/persian_vpe_psg_cls.pdf" title="conference schedule">The (un)availability of idiomatic readings in Persian light verb-stranding ellipses </a> <br>
+<a href="{{ site.baseurl}}/public/short/persian_vpe_psg_cls.pdf" title="conference schedule">The (un)availability of idiomatic readings in Persian light verb-stranding ellipses </a> <br>
 Ryan Walter Smith, Rana Nabors, Roya Kabiri, Simin Karimi & Heidi Harley
 
 
@@ -227,7 +302,7 @@ Ryan Walter Smith, Rana Nabors, Roya Kabiri, Simin Karimi & Heidi Harley
 Eric Potsdam
 
 
-The Syntax of (Non-) reduced Why-Interrogatives <br>
+<a> The Syntax of (Non-) reduced Why-Interrogatives </a> <br>
 Anissa Zaitsu
 
 
@@ -238,10 +313,10 @@ Borui Zhang
 Usama Soltan
 
 
-Sluicing-like Constructions in Turkish <br>
+<a> Sluicing-like Constructions in Turkish </a> <br>
 Bilge Palaz
 
-Perspectives under Ellipsis <br>
+<a> Perspectives under Ellipsis </a> <br>
 Rong Yin & Jeremy Hartman
 
 
@@ -251,14 +326,14 @@ Sherry Yong Chen
 <a href="{{ site.baseurl }}/public/short/Chen - abstract with names and institutions.pdf" title="conference schedule">On the morpho-semantic puzzle of superlative modifiers </a> <br>
 Yi-Hsun Chen
 
-Expressive modifiers of manner and degree <br>
+<a> Expressive modifiers of manner and degree </a> <br>
 Rebekah Baglini
 
 
 <a href="{{ site.baseurl }}/public/short/Determiner_spreading_and_modification_in_Kipsigis.pdf" title="conference schedule">Determiner spreading and modification in Kipsigis </a>  <br>
 Maria Kouneli
 
-Flavors of predicate modification <br>
+<a> Flavors of predicate modification </a> <br>
 Vesela Simeonova
 
 
@@ -266,7 +341,7 @@ Vesela Simeonova
 Peter Alrenga
 
 
-Listener responses to co-articulation: Solving the “Use it or Lose it” problem <br>
+<a> Listener responses to co-articulation: Solving the “Use it or Lose it” problem </a> <br>
 Anne Pycha & Georgia Zellou
 
 <a href="{{ site.baseurl }}/public/short/CLS54_180_affiliation.pdf" title="conference schedule">Syllable count judgments: relating gestural composition and syllable weight </a><br>
