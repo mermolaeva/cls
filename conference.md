@@ -75,9 +75,8 @@ Abdul-Razak Sulemana
 <a href="{{ site.baseurl }}/public/short/3.pdf" title="conference schedule">On Multiple Right- dislocation in Japanese </a> <br>
 Toru Ishii
 
-
-<a href="{{ site.baseurl }}/public/short/4.pdf" title="conference schedule">English expletives there and it originate low: Evidence from ellipsis </a> <br>
-Danfeng Wu
+<a href="{{ site.baseurl }}/public/short/Pseudo_wh-copying_as_wh-slifting_PANKAU.pdf" title="conference schedule">Pseudo wh-copying as wh-slifting </a><br>
+Andreas Pankau
 
 <a href="{{ site.baseurl }}/public/short/LithuanianGenitiveOfNegation.pdf" title="conference schedule">The dual face of dependent case: On Lithuanian genitive of negation </a> <br>
 Einar Freyr Sigurðsson & Milena Šereikaite
@@ -201,7 +200,7 @@ Annika Kohrt & Trey Sorensen, Dustin Chacón
 Jeffrey Green, Michael McCourt, Ellen Lau & Alexander Williams
 
 
-<a> Licensing SOV in Estonian: A naturalness rating study </a> <br>
+<a href="{{ site.baseurl }}/public/short/CLS_abstract_Marju_Kaps.pdf" title="conference schedule"> Licensing SOV in Estonian: A naturalness rating study </a> <br>
 Marju Kaps
 
 
@@ -213,11 +212,14 @@ Till Poppels & Andrew Kehler
 Thomas Grano
 
 
-<a> Counting on a verbal dimension: verbal classifiers in Mandarin Chinese </a> <br>
+<a href="{{ site.baseurl }}/public/short/Counting_on_a_Verbal_Dimension.pdf" title="conference schedule"> Counting on a verbal dimension: verbal classifiers in Mandarin Chinese </a> <br>
 Ang Li
 
-<a href="{{ site.baseurl }}/public/short/Pseudo_wh-copying_as_wh-slifting_PANKAU.pdf" title="conference schedule">Pseudo wh-copying as wh-slifting </a><br>
-Andreas Pankau
+
+<a href="{{ site.baseurl }}/public/short/4.pdf" title="conference schedule">English expletives there and it originate low: Evidence from ellipsis </a> <br>
+Danfeng Wu
+
+
 
 <a href="{{ site.baseurl }}/public/short/Yuta Tatsumi.pdf" title="conference schedule">Excorporation and V-V compound ellipsis in Japanese </a><br>
 Yuta Tatsumi
@@ -252,7 +254,7 @@ Mingya Liu
 Lucia Tovena & Mara Panaitescu
 
 
-<a> Covert Segregation: Dialect Discrimination in the Housing Market  </a><br>
+<a href="{{ site.baseurl }}/public/short/CLS54_abstract_223.pdf" title="conference schedule">Covert Segregation: Dialect Discrimination in the Housing Market  </a><br>
 Kelly E. Wright
 
 
@@ -313,10 +315,10 @@ Borui Zhang
 Usama Soltan
 
 
-<a> Sluicing-like Constructions in Turkish </a> <br>
+<a href="{{ site.baseurl }}/public/short/Towards a Unified Account of Clausal Ellipsis in Turkish.pdf" title="conference schedule"> Towards a Unified Account of Clausal Ellipsis in Turkish: A Non-Movement Analysis </a> <br>
 Bilge Palaz
 
-<a> Perspectives under Ellipsis </a> <br>
+<a href="{{ site.baseurl }}/public/short/CLS 42.pdf" title="conference schedule"> Perspectives under Ellipsis </a> <br>
 Rong Yin & Jeremy Hartman
 
 
@@ -333,7 +335,10 @@ Rebekah Baglini
 <a href="{{ site.baseurl }}/public/short/Determiner_spreading_and_modification_in_Kipsigis.pdf" title="conference schedule">Determiner spreading and modification in Kipsigis </a>  <br>
 Maria Kouneli
 
-<a> Flavors of predicate modification </a> <br>
+
+
+
+<a href="{{ site.baseurl }}/public/short/flavors_abstract_withname.pdf" title="conference schedule"> Flavors of predicate modification </a> <br>
 Vesela Simeonova
 
 
@@ -341,8 +346,10 @@ Vesela Simeonova
 Peter Alrenga
 
 
-<a> Listener responses to co-articulation: Solving the “Use it or Lose it” problem </a> <br>
+
+<a href="{{ site.baseurl }}/public/short/Listener_responses_coarticulation_Pycha_Zellou.pdf" title="conference schedule">Listener responses to co-articulation: Solving the “Use it or Lose it” problem </a> <br>
 Anne Pycha & Georgia Zellou
+
 
 <a href="{{ site.baseurl }}/public/short/CLS54_180_affiliation.pdf" title="conference schedule">Syllable count judgments: relating gestural composition and syllable weight </a><br>
 Anisia Popescu
