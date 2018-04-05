@@ -279,7 +279,7 @@ Anqi Zhang
       </style>
    </head>
    <body>
-      <div class="square"><a> TBA </a> <br>
+      <div class="square"> <a href="{{ site.baseurl}}/public/short/abels.pdf" title="conference schedule">The swamp construction </a> <br>
       Invited Speaker: Klaus Abels (University College London) <br>
 <br>
       <a> TBA </a> <br>
@@ -296,7 +296,7 @@ Anqi Zhang
 Rafael Abramovitz
 
 
-<a href="{{ site.baseurl}}/public/short/persian_vpe_psg_cls.pdf" title="conference schedule">The (un)availability of idiomatic readings in Persian light verb-stranding ellipses </a> <br>
+<a href="{{ site.baseurl}}/public/short/persian_vpe_psg_cls.pdf" title="conference schedule"> The (un)availability of idiomatic readings in Persian light verb-stranding ellipses </a> <br>
 Ryan Walter Smith, Rana Nabors, Roya Kabiri, Simin Karimi & Heidi Harley
 
 
@@ -322,7 +322,7 @@ Bilge Palaz
 Rong Yin & Jeremy Hartman
 
 
-<a href="{{ site.baseurl }}/public/short/The_two_lives_of_zero.pdf" title="conference schedule">The two lives of zero: numeral, intensification, and scale boundary </a> <br>
+<a href="{{ site.baseurl }}/public/short/The_two_lives_of_zero.pdf" title="conference schedule">The two lives of <i>zero</i>: numeral, intensification, and NPI licensing </a> <br>
 Sherry Yong Chen
 
 <a href="{{ site.baseurl }}/public/short/Chen - abstract with names and institutions.pdf" title="conference schedule">On the morpho-semantic puzzle of superlative modifiers </a> <br>
