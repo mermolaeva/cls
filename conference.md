@@ -167,7 +167,7 @@ Gabriel Martinez Vera
       </style>
    </head>
    <body>
-      <div class="square"><a> Ezafe, Nominalization, and the Structure of PP </a> <br>
+      <div class="square"><a href="{{ site.baseurl }}/public/short/RKL_CLS54Abstract.pdf" title="conference schedule"> Ezafe, Nominalization, and the Structure of PP </a> <br>
       Invited Speaker: Richard Larson (Stony Brook University) <br>
 <br>
       <a> What to learn in learning word meanings </a> <br>
@@ -178,6 +178,9 @@ Gabriel Martinez Vera
 </html>
 
 <br>
+
+
+
 
 <a> A longitudinal study of a socially- and geographically-mobile Chicagoan </a> <br>
 Lewis Esposito
@@ -304,9 +307,8 @@ Ryan Walter Smith, Rana Nabors, Roya Kabiri, Simin Karimi & Heidi Harley
 Eric Potsdam
 
 
-<a> The Syntax of (Non-) reduced Why-Interrogatives </a> <br>
+<a href="{{ site.baseurl }}/public/short/CLS_Why_VP_Abstract__short_.pdf" title="conference schedule"> The Syntax of (Non-) reduced Why-Interrogatives </a> <br>
 Anissa Zaitsu
-
 
 <a href="{{ site.baseurl }}/public/short/SluicingKathmanduNewari-BZ.pdf" title="conference schedule">Sluicing in Kathmandu Newari: Evidence from the Effect of Island Repairing </a> <br>
 Borui Zhang
