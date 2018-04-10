@@ -330,7 +330,7 @@ Sherry Yong Chen
 <a href="{{ site.baseurl }}/public/short/Chen - abstract with names and institutions.pdf" title="conference schedule">On the morpho-semantic puzzle of superlative modifiers </a> <br>
 Yi-Hsun Chen
 
-<a> Expressive modifiers of manner and degree </a> <br>
+<a href="{{ site.baseurl }}/public/short/CLS_2018_2.pdf" title="conference schedule"> Expressive modifiers of manner and degree </a> <br>
 Rebekah Baglini
 
 
