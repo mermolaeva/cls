@@ -94,7 +94,8 @@ Ileana Paul & Lisa Travis
 <a> Ergative Absolutive Case Markers in Bitterroot Salish  </a><br>
 Ana Alonso
 
-<a> Preference for single events guides perception in Russian: A phoneme restoration study </a> <br>
+
+<a href="{{ site.baseurl }}/public/short/CLS2018 - Restoration final.pdf" title="conference schedule"> Preference for single events guides perception in Russian: A phoneme restoration study </a> <br>
 Jesse Harris & Natasha Korotkova
 
 <a href="{{ site.baseurl }}/public/short/wilson.pdf" title="conference schedule">The Dative Illusion as an Argument for Lexicalist Argument Structure </a> <br>
@@ -285,7 +286,7 @@ Anqi Zhang
       <div class="square"> <a href="{{ site.baseurl}}/public/short/abels.pdf" title="conference schedule">The swamp construction </a> <br>
       Invited Speaker: Klaus Abels (University College London) <br>
 <br>
-      <a> TBA </a> <br>
+      <a href="{{ site.baseurl}}/public/short/marcin.pdf" title="conference schedule"> Semantic Viruses and Multiple Superlatives </a> <br>
       Invited Speaker: Marcin Morzycki (Michigan State University)
 
 </div>
@@ -293,6 +294,7 @@ Anqi Zhang
 </html>
 
 <br>
+
 
 
 <a href="{{ site.baseurl }}/public/short/verb_stranding_verb_phrase_ellipsis_in_russian_evidence_from_unpronounced_subjects.pdf" title="conference schedule">Verb-Stranding Verb Phrase Ellipsis in Russian: Evidence from Unpronounced Subjects </a> <br>
