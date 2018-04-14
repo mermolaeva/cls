@@ -106,7 +106,7 @@ Michael Wilson
 Ana Besserman & Elsi Kaiser
 
 <a href="{{ site.baseurl }}/public/short/5.pdf" title="conference schedule">Quantified Sentences as a Window into Prediction and Priming: An ERP Study </a> <br>
-Aniello De Santo, Jonathan Rawski & John E. Drury
+Aniello De Santo, Jon Rawki, Amanda M. Yazdani, & John E. Drury
 
 <a href="{{ site.baseurl }}/public/short/6.pdf" title="conference schedule">Contextual, lexical, and structural factors licensing Mention-Some embedded questions </a> <br>
 Morgan Moyer & Kristen Syrett
@@ -246,8 +246,7 @@ Alexander Wimmer
 <a href="{{ site.baseurl }}/public/short/Abstract Lithuanian Neuters.pdf" title="conference schedule">The Neuter Agreement Constraint in Lithuanian </a> <br>
 Luke Adamson & Milena Šereikaite
 
-
-<a> The Gender Features in Spanish-English Code- Switching Contexts </a> <br>
+<a href="{{ site.baseurl }}/public/short/The_Gender_Features_in_code-switched_DPs.pdf" title="conference schedule"> The Gender Features in Spanish-English Code- Switching Contexts </a> <br>
 Abel Cruz Flores
 
 <a href="{{ site.baseurl }}/public/short/CLS54_abstract_Mingya Liu.pdf" title="conference schedule">Graded Biconditionality and Reasoning </a> <br>
