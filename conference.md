@@ -325,7 +325,7 @@ Bilge Palaz
 Rong Yin & Jeremy Hartman
 
 
-<a href="{{ site.baseurl }}/public/short/The_two_lives_of_zero.pdf" title="conference schedule">The two lives of <i>zero</i>: numeral, intensification, and NPI licensing </a> <br>
+<a href="{{ site.baseurl }}/public/short/sherry.pdf" title="conference schedule">From <i>zero</i> to bigger things: numerality, intensification, and <u>NPI</u> licensing </a> <br>
 Sherry Yong Chen
 
 <a href="{{ site.baseurl }}/public/short/Chen - abstract with names and institutions.pdf" title="conference schedule">On the morpho-semantic puzzle of superlative modifiers </a> <br>
