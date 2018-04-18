@@ -26,7 +26,7 @@ style="border:0"
 allowfullscreen>
 </iframe>
 
-## Program
+## Program (updated on April 18)
 
 The conference program is available for [download]({{ site.baseurl }}/public/CLS54_program.pdf).
 
@@ -186,7 +186,7 @@ Gabriel Martinez Vera
 <a> A longitudinal study of a socially- and geographically-mobile Chicagoan </a> <br>
 Lewis Esposito
 
-<a href="{{ site.baseurl }}/public/short/HIROAKI Saito.pdf" title="conference schedule">Grammaticalization and the Root & Category Theory </a> <br>
+<a href="{{ site.baseurl }}/public/short/CLS54(2018).pdf" title="conference schedule">Grammaticalization and the Root & Category Theory </a> <br>
 Hiroaki Saito
 
 <a> The für in was für: historic evidence against was für as wh-modification </a> <br>
