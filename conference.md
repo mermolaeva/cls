@@ -171,7 +171,7 @@ Gabriel Martinez Vera
       <div class="square"><a href="{{ site.baseurl }}/public/short/RKL_CLS54Abstract.pdf" title="conference schedule"> Ezafe, Nominalization, and the Structure of PP </a> <br>
       Invited Speaker: Richard Larson (Stony Brook University) <br>
 <br>
-      <a> What to learn in learning word meanings </a> <br>
+      <a href="{{ site.baseurl }}/public/short/Valentine.pdf" title="conference schedule"> What to learn in learning modal and attitude meanings</a> <br>
       Invited Speaker: Valentine Hacquard (University of Maryland)
 
 </div>
@@ -220,8 +220,9 @@ Thomas Grano
 Ang Li
 
 
-<a href="{{ site.baseurl }}/public/short/4.pdf" title="conference schedule">English expletives there and it originate low: Evidence from ellipsis </a> <br>
+<a href="{{ site.baseurl }}/public/short/danfeng.pdf" title="conference schedule">Evidence from ellipsis suggests the low origination site of expletives “there” and “it” </a> <br>
 Danfeng Wu
+
 
 
 
