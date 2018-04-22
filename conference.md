@@ -26,7 +26,7 @@ style="border:0"
 allowfullscreen>
 </iframe>
 
-## Program (updated on April 18)
+## Program (updated on April 21)
 
 The conference program is available for [download]({{ site.baseurl }}/public/CLS54_program.pdf).
 
@@ -66,8 +66,13 @@ The abstracts of all the presentations are available (to be updated) here.
 
 <br>
 
-<a> Parameters of Deísmo in ECM Structures: Evidence from Romance </a> <br>
-Lorena Castillo & Ángel J. Gallego
+<a href="{{ site.baseurl }}/public/short/Abstract Lithuanian Neuters.pdf" title="conference schedule">The Neuter Agreement Constraint in Lithuanian </a> <br>
+Luke Adamson & Milena Šereikaite
+
+
+<!-- <a> Parameters of Deísmo in ECM Structures: Evidence from Romance </a> <br>
+Lorena Castillo & Ángel J. Gallego -->
+
 
 <a href="{{ site.baseurl }}/public/short/2.pdf" title="conference schedule">PRO as a Partial Copy A movement based account of Control </a> <br>
 Abdul-Razak Sulemana
@@ -129,7 +134,6 @@ Emily Clem
 Jeffrey Green
 
 
-
 <a href="{{ site.baseurl }}/public/short/CLS2018–Jackfruit.pdf" title="conference schedule"> Testing the real-time status of covert movement of wh-operators and QPs in English </a> <br>
 Austin Kraft, Jonathon Coltz & Dustin Chacón
 
@@ -144,10 +148,6 @@ Qiongpeng Luo & Yuzhen Cao
 
 <a href="{{ site.baseurl }}/public/short/Rachel Rudolph.pdf" title="conference schedule">Appearance Reports and the Acquaintance Inference </a> <br>
 Rachel Rudolph
-
-
-<a href="{{ site.baseurl }}/public/short/Martinez Vera, Gabriel - Bringing creation predicates and degree achievements together(rev).pdf" title="conference schedule">Bringing creation predicates and degree achievements together: Evidence from Aymara </a> <br>
-Gabriel Martinez Vera
 
 
 
@@ -180,11 +180,11 @@ Gabriel Martinez Vera
 
 <br>
 
+<a href="{{ site.baseurl }}/public/short/CLS54_abstract_223.pdf" title="conference schedule">Covert Segregation: Dialect Discrimination in the Housing Market  </a><br>
+Kelly E. Wright
 
-
-
-<a> A longitudinal study of a socially- and geographically-mobile Chicagoan </a> <br>
-Lewis Esposito
+<!-- <a> A longitudinal study of a socially- and geographically-mobile Chicagoan </a> <br>
+Lewis Esposito -->
 
 <a href="{{ site.baseurl }}/public/short/CLS54(2018).pdf" title="conference schedule">Grammaticalization and the Root & Category Theory </a> <br>
 Hiroaki Saito
@@ -224,8 +224,6 @@ Ang Li
 Danfeng Wu
 
 
-
-
 <a href="{{ site.baseurl }}/public/short/Yuta Tatsumi.pdf" title="conference schedule">Excorporation and V-V compound ellipsis in Japanese </a><br>
 Yuta Tatsumi
 
@@ -244,8 +242,6 @@ Hana Möller Kalpak
 Alexander Wimmer
 
 
-<a href="{{ site.baseurl }}/public/short/Abstract Lithuanian Neuters.pdf" title="conference schedule">The Neuter Agreement Constraint in Lithuanian </a> <br>
-Luke Adamson & Milena Šereikaite
 
 <a href="{{ site.baseurl }}/public/short/The_Gender_Features_in_code-switched_DPs.pdf" title="conference schedule"> The Gender Features in Spanish-English Code- Switching Contexts </a> <br>
 Abel Cruz Flores
@@ -258,8 +254,8 @@ Mingya Liu
 Lucia Tovena & Mara Panaitescu
 
 
-<a href="{{ site.baseurl }}/public/short/CLS54_abstract_223.pdf" title="conference schedule">Covert Segregation: Dialect Discrimination in the Housing Market  </a><br>
-Kelly E. Wright
+<a href="{{ site.baseurl }}/public/short/Martinez Vera, Gabriel - Bringing creation predicates and degree achievements together(rev).pdf" title="conference schedule">Bringing creation predicates and degree achievements together: Evidence from Aymara </a> <br>
+Gabriel Martinez Vera
 
 
 <a href="{{ site.baseurl }}/public/short/AnqiZhangCLS54.pdf" title="conference schedule">Transitive-Intransitive Alternations in Japanese  </a><br>
