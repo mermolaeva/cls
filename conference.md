@@ -26,7 +26,7 @@ style="border:0"
 allowfullscreen>
 </iframe>
 
-## Program (updated on April 21)
+## Program (updated on April 24)
 
 The conference program is available for [download]({{ site.baseurl }}/public/CLS54_program.pdf).
 
@@ -116,7 +116,8 @@ Aniello De Santo, Jon Rawki, Amanda M. Yazdani, & John E. Drury
 <a href="{{ site.baseurl }}/public/short/6.pdf" title="conference schedule">Contextual, lexical, and structural factors licensing Mention-Some embedded questions </a> <br>
 Morgan Moyer & Kristen Syrett
 
-<a> Uncovering bias in Estonian negative polar questions: An experimental study </a> <br>
+
+<a href="{{ site.baseurl }}/public/short/roberts_cls54_updated.pdf" title="conference schedule"> Uncovering bias in Estonian negative polar questions: An experimental study </a> <br>
 Thomas Roberts
 
 <a href="{{ site.baseurl }}/public/short/gor&syrett_cls18.pdf" title="conference schedule"> Beyond Principle C: (Not)-at-issueness and plausibility influence acceptability of coconstrual </a><br>
@@ -168,7 +169,7 @@ Rachel Rudolph
       </style>
    </head>
    <body>
-      <div class="square"><a href="{{ site.baseurl }}/public/short/RKL_CLS54Abstract.pdf" title="conference schedule"> Ezafe, Nominalization, and the Structure of PP </a> <br>
+      <div class="square"><a href="{{ site.baseurl }}/public/short/RKL_CLS54Abstract.pdf" title="conference schedule"> Ezafe, PP and the Nature of Nominalization </a> <br>
       Invited Speaker: Richard Larson (Stony Brook University) <br>
 <br>
       <a href="{{ site.baseurl }}/public/short/Valentine.pdf" title="conference schedule"> What to learn in learning modal and attitude meanings</a> <br>
