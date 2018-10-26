@@ -45,7 +45,7 @@ Budget-minded participants might also want to consider options like [Airbnb](htt
 ### Crash space:
 
 Limited numbers of couches, futons and hide-a-beds are available from
-students in the University of Chicago community. Please [contact CLS](mailto:chicagolinguisticsociety.cls54@gmail.com) for details.
+students in the University of Chicago community. Please [contact CLS](mailto:chicagolinguisticsociety.cls55@gmail.com) for details.
 
 <br>
 <br>
