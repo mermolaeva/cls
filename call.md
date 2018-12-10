@@ -11,7 +11,7 @@ Presenters will be given 20 minutes for presentation followed by a 10-minute que
 
 ## Special Topics:
 
-#### <u>Brian and Language</u>
+#### <u>Brain and Language</u>
 
 Interdisciplinary research on the neural bases of language development, processing, and use has been rising in popularity, due especially to improvements in neuroimaging techniques and increasing knowledge in psycholinguistics and cognitive neuroscience. We invite abstracts discussing recent research on how the human brain behaves in different language-related tasks, such as first and second language acquisition, as well as speech and sign perception, comprehension and production. Comparative work regarding the neural bases of animal communication is also encouraged.
 
