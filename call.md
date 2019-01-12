@@ -46,8 +46,7 @@ So that we may evaluate all submissions in a fair and equal manner, abstracts wh
 
 ## Important Dates:
 
-- Submission deadline: January 16, 2019 by 11:59 PM CST
-<!-- - Submission deadline: <del>January 8, </del> January 15, 2018 by 11:59 PM CST -->
+- Submission deadline: <strike>January 16, </strike> January 23, 2019 by 11:59 PM CST
 - Notification: March 2, 2019
 - Conference dates: May 16-18, 2019
 
