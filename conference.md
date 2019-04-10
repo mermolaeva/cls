@@ -26,10 +26,11 @@ style="border:0"
 allowfullscreen>
 </iframe>
 
-<!-- ## Program (updated on April 24)
+## Program (updated on April 9)
 
-The conference program is available for [download]({{ site.baseurl }}/public/CLS54_program.pdf).
+The conference program is available for <a href="CLS55_program.pdf">download</a>.
 
+<!--
 <br> -->
 
 <!--
