@@ -55,15 +55,15 @@ students in the University of Chicago community. Please [contact CLS](mailto:chi
 ### Hotels to campus:
 
 The Hyde Park Hyatt is a short walk from campus. Hostelling International Chicago is one block from the Metra train station at Michigan Ave. and Van Buren Street.  The train ride is about  15 minutes to the 59th Street Station on the campus of University of
-Chicago. See the [transportation map](http://metrarail.com/metra/en/home/maps_schedules/metra_system_map/me/map.html).
+Chicago. See the [transportation map](https://safety-security.uchicago.edu/services/Trains/?fbclid=IwAR1U39Ak64cOay-WPlianMOpd62w-s7e_FT_YE30_SjOWbS9SnDow3X2CE0).
 
 ### Parking on campus:
 
-Street parking is free in Hyde Park, but [campus parking](http://maps.uchicago.edu/directions/parking/) is also available.
+Street parking is free in Hyde Park, but [campus parking](https://safety-security.uchicago.edu/services/visitor_parking/?fbclid=IwAR2b9EkRrJ9_QQo3zpEmDZ8N94_GLzX-Bww8-CGHJk5soBrnwfSXYs6DOYw) is also available.
 
 <br>
 <br>
 
 ## Maps
 
-Maps of the campus of The University of Chicago and nearby locations can be found [here](http://maps.uchicago.edu/index.shtml).
+Maps of the campus of The University of Chicago and nearby locations can be found [here](https://maps.uchicago.edu/other-campus-maps/?fbclid=IwAR0vfQeopCVsweRdVBqkzcXg4oQ2wZCuEcTPCVZbpUYjab-PM5ChFwK9Ghc).

@@ -35,7 +35,7 @@ The conference program is available for <a href="CLS55_program.pdf">download</a>
 
 The abstracts of all the presentations and posters are available below:
 
-### Day 1 (May 26)
+### Day 1 (May 16)
 
 <html>
    <head>
@@ -195,7 +195,7 @@ Michael Donovan
 
 <br>
 
-<a href="{{ site.baseurl }}/public/short/Sakamoto.pdf" title="conference schedule">Elliptic Do So in Japanese </a><br>
+<a href="{{ site.baseurl }}/public/short/Elliptic.pdf" title="conference schedule">Elliptic Do So in Japanese </a><br>
 Yuta Sakamoto
 
 <!-- <a> A longitudinal study of a socially- and geographically-mobile Chicagoan </a> <br>
@@ -205,7 +205,7 @@ Lewis Esposito -->
 Toru Ishii & Brian Agbayani
 
 
-<a href="{{ site.baseurl }}/public/short/Liu.pdf" title="conference schedule">Delayed Subject Advantages in Mandarin Sluicing Acquisition </a> <br>
+<a href="{{ site.baseurl }}/public/short/Liu - Sluicing.pdf" title="conference schedule">Delayed Subject Advantages in Mandarin Sluicing Acquisition </a> <br>
 Minqi Liu
 
 <a href="{{ site.baseurl }}/public/short/Lee and Kodner.pdf" title="conference schedule">Acquiring the Korean
