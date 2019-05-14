@@ -271,7 +271,7 @@ Peter Guekguezian
 Mikael Vinka
 
 
-<a href="{{ site.baseurl }}/public/short/Tanaka.pdf" title="conference schedule">Japanese mo ’also’: Anti-negative scope and inclusive entailment </a><br>
+<a href="{{ site.baseurl }}/public/short/Japanese.pdf" title="conference schedule">Japanese mo ’also’: Anti-negative scope and inclusive entailment </a><br>
 Hideharu Tanaka
 
 
