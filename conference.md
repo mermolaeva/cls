@@ -213,7 +213,7 @@ Causatives </a> <br>
 Sun Jae Lee & Jordan Kodner
 
 
-<a href="{{ site.baseurl }}/public/short/Bondarenko and Davis.pdf" title="conference schedule">Linearization Asymmetries in Russian Left Branch Extraction </a> <br>
+<a href="{{ site.baseurl }}/public/short/Bondarenko and Davis.pdf" title="conference schedule">Linearization Asymmetries in Russian Sub-Extraction </a> <br>
 Tanya Bondarenko & Colin Davis
 
 
