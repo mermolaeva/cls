@@ -205,7 +205,7 @@ Lewis Esposito -->
 Toru Ishii & Brian Agbayani
 
 
-<a href="{{ site.baseurl }}/public/short/Liu - Sluicing.pdf" title="conference schedule">Delayed Subject Advantages in Mandarin Sluicing Acquisition </a> <br>
+<a href="{{ site.baseurl }}/public/short/Delayed.pdf" title="conference schedule">Delayed Subject Advantages in Mandarin Sluicing Acquisition </a> <br>
 Minqi Liu
 
 <a href="{{ site.baseurl }}/public/short/Lee and Kodner.pdf" title="conference schedule">Acquiring the Korean
