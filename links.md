@@ -16,5 +16,5 @@ title: Links
 - [Phonology Lab](http://lucian.uchicago.edu/blogs/phonlab/)
 - [The Linguistica Project](http://linguistica.uchicago.edu)
 - [Workshop on Language, Cognition, and Computation](http://home.uchicago.edu/~jsllee/lcc/)
-- [Language in Time and Space Research Group] (https://lucian.uchicago.edu/blogs/langtimespace/)
+- [Language in Time and Space Research Group](https://lucian.uchicago.edu/blogs/langtimespace/)
 - [BLING (Blog in LINGuistics)](http://lucian.uchicago.edu/blogs/bling/)
