@@ -38,14 +38,14 @@ We suggest that conference attendees stay at the Hyatt in Hyde Park because of i
 
 ### [Hostelling International Chicago](http://hichicago.org/):
 
-This large hostel is located in down-town Chicago at Congress and Wabash. Room rates start at $34 a night, with free breakfast.
+This large hostel is located in down-town Chicago at Congress and Wabash. Room rates start at $32 a night, with free breakfast.
 
 Budget-minded participants might also want to consider options like [Airbnb](https://www.airbnb.com/s/Chicago--IL) and [Couchsurfing](https://www.couchsurfing.com/).
 
 ### Crash space:
 
 Limited numbers of couches, futons and hide-a-beds are available from
-students in the University of Chicago community. Please [contact CLS](mailto:chicagolinguisticsociety.cls55@gmail.com) for details.
+students in the University of Chicago community. Please [contact CLS](mailto:chicagolinguisticsociety.cls56@gmail.com) for details.
 
 <br>
 <br>
@@ -54,16 +54,19 @@ students in the University of Chicago community. Please [contact CLS](mailto:chi
 
 ### Hotels to campus:
 
-The Hyde Park Hyatt is a short walk from campus. Hostelling International Chicago is one block from the Metra train station at Michigan Ave. and Van Buren Street.  The train ride is about  15 minutes to the 59th Street Station on the campus of University of
-Chicago. See the [transportation map](http://metrarail.com/metra/en/home/maps_schedules/metra_system_map/me/map.html).
+The Hyde Park Hyatt is a short walk from campus. Hostelling International Chicago is one block from the Metra train station at Michigan Ave. and Van Buren Street. The train ride is about 15 minutes to the 59th Street Station on the campus of University of Chicago. See the [transportation map](https://metrarail.com/).
 
 ### Parking on campus:
 
-Street parking is free in Hyde Park, but [campus parking](http://maps.uchicago.edu/directions/parking/) is also available.
+Street parking is free in Hyde Park, but [campus parking](https://d3qi0qp55mx5f5.cloudfront.net/safety-security/uploads/files/Parking_Lots_and_Garages_2018_March.pdf?mtime=1520869633) (updated on March 2018) is also available.
+
+### Transportation and parking guide:
+
+A brochure on transportation and parking can be found [here](https://d3qi0qp55mx5f5.cloudfront.net/safety-security/uploads/files/2018_Trans_Brochure_09.06.18.pdf?mtime=1537196162) (version 2018-2019)
 
 <br>
 <br>
 
 ## Maps
 
-Maps of the campus of The University of Chicago and nearby locations can be found [here](http://maps.uchicago.edu/index.shtml).
+Maps of the campus of The University of Chicago and nearby locations can be found [here](https://maps.uchicago.edu/).

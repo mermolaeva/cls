@@ -11,20 +11,14 @@ title: Conference
 
 ## Dates
 
-**Dates**: May 16-18, 2019
+**Dates**: April 30 - May 2, 2020
 
 ## Venue
 
-**Venue**: [Ida Noyes Hall](http://maps.uchicago.edu/eastquad/idanoyes.html) at 1212 East 59th Street.
+**Venue**: [Ida Noyes Hall](https://maps.uchicago.edu/location/ida-noyes-hall/) at 1212 East 59th Street.
 
-<iframe
-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.8609078047984!2d-87.59776848452385!3d41.788211179229364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2916e43862ed%3A0xb3ed6f8c9e9f6a9a!2sIda+Noyes+Hall%2C+1212+E+59th+St%2C+Chicago%2C+IL+60637!5e0!3m2!1sen!2sus!4v1457771119274"
-width="100%"
-height="450"
-frameborder="0"
-style="border:0"
-allowfullscreen>
-</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.869084117617!2d-87.59786858456218!3d41.78803497902447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2916fd81ab11%3A0xfa4bcef9eec30285!2sIda+Noyes+Hall!5e0!3m2!1sen!2skr!4v1565852614957!5m2!1sen!2skr" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 <!-- ## Program (updated on April 24)
 
