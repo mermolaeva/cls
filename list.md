@@ -7,7 +7,7 @@ Proceedings from most of our conferences are available for sale through CLS. We 
 
 Chicago Linguistic Society<br />
 1115 East 58th Street <br />
-Rosenwald 224<br/>
+Rosenwald Hall, Room 224<br/>
 Chicago, IL 60637
 United States of America <br />
 
@@ -23,6 +23,16 @@ Shipping and handling **within the United States** is $3 for the first book and 
     <th align="center">Volume</th>
     <th align="left">Title</th>
     <th align="center">Price</th>
+  </tr>
+  <tr>
+    <td align="center">54</td>
+    <td align="left">Conference 2017; Published 2019</td>
+    <td align="center">TBD</td>
+  </tr>
+  <tr>
+    <td align="center">53</td>
+    <td align="left">Conference 2017; Published 2018</td>
+    <td align="center">TBD</td>
   </tr>
   <tr>
     <td align="center">52</td>
