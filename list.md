@@ -26,7 +26,7 @@ Shipping and handling **within the United States** is $3 for the first book and 
   </tr>
   <tr>
     <td align="center">54</td>
-    <td align="left">Conference 2017; Published 2019</td>
+    <td align="left">Conference 2018; Published 2019</td>
     <td align="center">TBD</td>
   </tr>
   <tr>
