@@ -5,9 +5,12 @@ title: Call for Papers
 ## Important Dates:
 
 - <b>Extended submission deadline: <font color="red">January 15, </font><strike>January 8</strike>, <b>2020 (11:59 PM CST)</b>
-- Notification of acceptance: February 17, 2020
+- Scheduled notification of acceptance: <b><font color="red">February 28,</font></b> <strike>February 17</strike>, 2020 \\
+  \*We will send out an email of notification after the peer review process. Thank you for patience.
 - Conference dates: April 30 - May 2, 2020
 - See <i>Abstract Guidelines</i> below for submission
+
+
 
 
 ## About the Chicago Linguistic Society
