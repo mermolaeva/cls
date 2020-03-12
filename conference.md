@@ -11,7 +11,8 @@ title: Conference
 
 ## Dates
 
-**Dates**: April 30 - May 2, 2020
+**Dates**: <b><font color="red">We are canceling CLS 56</font></b>
+<!-- April 30 - May 2, 2020 -->
 
 ## Venue
 

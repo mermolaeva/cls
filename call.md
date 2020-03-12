@@ -4,16 +4,18 @@ title: Call for Papers
 ---
 ## Important Dates:
 
-- <b>Extended submission deadline: <font color="red">January 15, </font><strike>January 8</strike>, <b>2020 (11:59 PM CST)</b>
+<b><font color="red">We are canceling CLS 56</font></b>
+
+<!-- - <b>Extended submission deadline: <font color="red">January 15, </font><strike>January 8</strike>, <b>2020 (11:59 PM CST)</b>
 - Scheduled notification of acceptance: <b><font color="red">February 28,</font></b> <strike>February 17</strike>, 2020 \\
   \*We will send out an email of notification after the peer review process. Thank you for patience.
 - Conference dates: April 30 - May 2, 2020
-- See <i>Abstract Guidelines</i> below for submission
+- See <i>Abstract Guidelines</i> below for submission -->
 
 
 
 
-## About the Chicago Linguistic Society
+<!-- ## About the Chicago Linguistic Society
 The Chicago Linguistic Society invites abstracts in any area of current research on the human language faculty, to include but not limited to syntax, morphology, semantics, pragmatics, sociolinguistics, phonology, phonetics, and all relevant interfaces and allied fields in cognitive/social sciences. We particularly encourage submissions relevant to this year’s proposed special sessions, detailed below.
 
 Presenters will be given 20 minutes for presentation followed by a 10-minute question period. Presented papers will be published in the CLS proceedings. This year’s conference features a poster session; those presenting a poster may be chosen as alternates for talks, and poster presentations will be published as regular papers in the proceedings.
@@ -43,7 +45,7 @@ So that we may evaluate all submissions in a fair and equal manner, abstracts wh
 3. Limit abstracts to two letter-sized or A4 pages in length, inclusive of data and references. Use one-inch margins and a font size no smaller than 11 point. Incorporate data into the main text of the abstract, not on a separate page.
 4. Anonymize submissions by not including author name(s) in the abstract or filename. If necessary, remove author name(s) from the document properties of the PDF file.
 5. Use the [Easychair](https://easychair.org/conferences/?conf=cls56) platform for the submission of abstracts.
-6. Restrict submissions to one individual and one joint abstract per author, or two joint abstracts per author.
+6. Restrict submissions to one individual and one joint abstract per author, or two joint abstracts per author. -->
 
 
 For questions, please contact us at: <chicagolinguisticsociety.cls56@gmail.com>
