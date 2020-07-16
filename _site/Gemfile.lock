@@ -14,6 +14,7 @@ GEM
     csl-styles (1.0.1.6)
       csl (~> 1.0)
     ffi (1.9.10)
+    ffi (1.9.10-x64-mingw32)
     jekyll (3.0.2)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
@@ -51,7 +52,11 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   jekyll (~> 3.0.2)
   jekyll-scholar (~> 5.7.1)
+
+BUNDLED WITH
+   2.1.4
