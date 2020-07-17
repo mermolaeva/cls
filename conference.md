@@ -3,12 +3,6 @@ layout: page
 title: Conference
 ---
 
-## Contents
-{:.no_toc}
-
-* ToC
-{:toc}
-
 ## Dates
 
 **Dates**: May 6 - May 8, 2021

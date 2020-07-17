@@ -7,7 +7,7 @@ permalink: none
 
 # Markdown specs
 markdown: kramdown
-
+encoding: utf-8
 kramdown:
   auto_ids:       true
   footnote_nr:    1
