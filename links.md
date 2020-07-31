@@ -15,6 +15,6 @@ title: Links
 - [Language Modeling Lab](http://clml.uchicago.edu)
 - [Phonology Lab](http://lucian.uchicago.edu/blogs/phonlab/)
 - [The Linguistica Project](http://linguistica.uchicago.edu)
-- [Workshop on Language, Cognition, and Computation](http://home.uchicago.edu/~jsllee/lcc/)
-- [Language in Time and Space Research Group] (https://lucian.uchicago.edu/blogs/langtimespace/)
+- [Workshop on Language, Cognition, and Computation](http://home.uchicago.edu/~jsllee/lcc/) 
 - [BLING (Blog in LINGuistics)](http://lucian.uchicago.edu/blogs/bling/)
+
