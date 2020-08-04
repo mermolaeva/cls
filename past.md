@@ -19,6 +19,7 @@ Here you can find the programs of some previous CLS conferences, some of them co
 
   If your work has been accepted for CLS 56 and you are interested in sharing your work with the public,
   please <a href="mailto:chicagolinguisticsociety.cls56@gmail.com">send an email to the CLS 56 committee</a> before September 1, 2020.
+  
   </details>
   
 - [CLS 55]({{ site.baseurl }}/public/CLS55_Program.pdf)                                                                                                                             
