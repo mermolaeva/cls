@@ -7,7 +7,7 @@ title: Previous Conferences
 
 Here you can find the programs of some previous CLS conferences, some of them containing brief descriptions of the papers presented.
 
-- CLS 56 [[Digital Repository]({{ site.baseurl }}/public/previous/CLS56_Digital-Repository.pdf)]
+- CLS 56 [[Digital Repository]({{ site.baseurl }}/public/CLS56_Digital-Repository.pdf)]
   <details>
   <summary>About Digital Repository</summary>
   The CLS 56 committee value all the work that the authors have conducted and submitted to CLS 56.
@@ -17,8 +17,8 @@ Here you can find the programs of some previous CLS conferences, some of them co
   We cordially encourage you to communicate with the authors for questions and discussions via email included in the material uploaded to the digital repository.
   We appreciate the contribution of all the authors.<br>
 
-  If your work has been accepted for CLS 56 and you are interested in sharing your work with the public,
-  please <a href="mailto:chicagolinguisticsociety.cls56@gmail.com">send an email to the CLS 56 committee</a> before September 1, 2020.
+  <font size="2"> If your work has been accepted for CLS 56 and you are interested in sharing your work with the public,
+  please <a href="mailto:chicagolinguisticsociety.cls56@gmail.com">send an email to the CLS 56 committee</a> before September 1, 2020. </font> 
   
   </details>
   
