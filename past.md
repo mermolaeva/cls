@@ -7,7 +7,7 @@ title: Previous Conferences
 
 Here you can find the programs of some previous CLS conferences, some of them containing brief descriptions of the papers presented.
 
-- CLS 56 [Digital Repository (last updated: September 29, 2020)]({{ site.baseurl }}/public/CLS56-Program_Sep29.pdf)
+- CLS 56 [Digital Repository (last updated: September 29, 2020)]({{ site.baseurl }}/public/CLS56-Program_Sep29_v2.pdf)
   <details>
   <summary>About Digital Repository</summary>
   The CLS 56 committee value all the work that the authors have conducted and submitted to CLS 56.
