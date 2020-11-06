@@ -15,7 +15,7 @@ Upon receiving your order, we will send an invoice indicating the final price in
 
 Shipping and handling **within the United States** is $3 for the first book and $1.50 for each additional book. International shipping and handling is $15 for each book.
 
-Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much of this year. We are up and running and accepting orders again, but we won't be shipping CLS 54 or 55 until March 2021. We are sorry for any inconvenience this may present; you may email us at the address linked above with any more specific inquiries. 
+Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much of this year. We are up and running and accepting orders again, but we won't be invoicing or shipping CLS 54 or 55 until March 2021. We are sorry for any inconvenience this may present; you may email us at the address linked above with any more specific inquiries. 
 
 <table>
   	<colgroup width="92" align="center"></colgroup>
