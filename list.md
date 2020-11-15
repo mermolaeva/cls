@@ -19,150 +19,180 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
 
 <table>
   	<colgroup width="92" align="center"></colgroup>
+	<colgroup width="92" align="center"></colgroup>
 	<colgroup width="570" align="left"></colgroup>
 	<colgroup width="80" align="right"></colgroup>
   <tr>
     <th align="center">Volume</th>
+    <th align="center">Pub. Year</th>
     <th align="left">Title</th>
     <th align="center">Price</th>
   </tr>
   <tr>
     <td align="center">55</td>
+    <td align="center">2020</td>
     <td align="left">Conference 2019; in press</td>
     <td align="center">$95</td>
   </tr>
   <tr>
     <td align="center">54</td>
+	  <td align="center">2019</td>
     <td align="left">Conference 2018; Published 2019</td>
     <td align="center">$95</td>
   </tr>
   <tr>
     <td align="center">53</td>
+	<td align="center">2018</td>
     <td align="left">Conference 2017; Published 2018</td>
     <td align="center">$95</td>
   </tr>
   <tr>
     <td align="center">52</td>
+	  <td align="center">2017</td>
     <td align="left">Conference 2016; Published 2017</td>
     <td align="center">$90</td>
   </tr>
   <tr>
     <td align="center">51</td>
+	  <td align="center">2016</td>
     <td align="left">Conference 2015; Published 2016</td>
     <td align="center">$80</td>
   </tr>
   <tr>
     <td align="center">50</td>
+	  <td align="center">2016</td>
     <td align="left">Conference 2014; Published 2016</td>
     <td align="center">$80</td>
   </tr>
   <tr>
     <td align="center">49</td>
+	  <td align="center">2015</td>
     <td align="left">Conference 2013; Published 2015</td>
     <td align="center">$80</td>
   </tr>
   <tr>
     <td align="center">48</td>
+	  <td align="center">2014</td>
     <td align="left">Conference 2012; Published 2014</td>
     <td align="center">$80</td>
   </tr>
   <tr>
     <td align="center">47-1</td>
+	  <td align="center">2014</td>
     <td align="left">Conference 2011; Published 2014</td>
     <td align="center">$50</td>
   </tr>
   <tr>
     <td align="center">47-2</td>
+	  <td align="center">2014</td>
     <td align="left">Conference 2011; Published 2014</td>
     <td align="center">$30</td>
   </tr>
    <tr>
     <td align="center">46-1</td>
+	   <td align="center">2014</td>
     <td align="left">Conference 2010; Published 2014</td>
     <td align="center">$50</td>
   </tr>
   <tr>
     <td align="center">46-2</td>
+	  <td align="center">2014</td>
     <td align="left">Conference 2010; Published 2014</td>
     <td align="center">$30</td>
   </tr>
   <tr>
     <td align="center">45-1</td>
+	  <td align="center">N/A</td>
     <td align="left">The Main Session</td>
     <td align="center">$35</td>
   </tr>
   <tr>
     <td align="center">45-2</td>
+	  <td align="center">N/A</td>
     <td align="left">Locality in Language</td>
     <td align="center">$35</td>
   </tr>
   <tr>
     <td align="center">44-1</td>
+	  <td align="center">2010</td>
     <td align="left">Conference 2008; Published 2010</td>
     <td align="center">$35</td>
   </tr>
   <tr>
     <td align="center">44-2</td>
+	  <td align="center">2010</td>
     <td align="left">Conference 2008; Published 2010</td>
     <td align="center">$35</td>
   </tr>
     <tr>
     <td align="center">43-1</td>
+	    <td align="center">2009</td>
     <td align="left">Conference 2007; Published 2009</td>
     <td align="center">$35</td>
   </tr>
   <tr>
     <td align="center">43-2</td>
+	  <td align="center">2009</td>
     <td align="left">Conference 2007; Published 2009</td>
     <td align="center">$35</td>
   </tr>
      <tr>
     <td align="center">42-1</td>
+	     <td align="center">2009</td>
     <td align="left">Conference 2006; Published 2009</td>
     <td align="center">$35</td>
   </tr>
   <tr>
     <td align="center">42-2</td>
+	  <td align="center">2009</td>
     <td align="left">Conference 2006; Published 2009</td>
     <td align="center">$35</td>
   </tr>
        <tr>
-    <td align="center">41-1</td>
+	       <td align="center">41-1</td>
+	    <td align="center">2008</td>
     <td align="left">Conference 2005; Published 2008</td>
     <td align="center">$35</td>
   </tr>
   <tr>
     <td align="center">41-2</td>
+	  <td align="center">2008</td>
     <td align="left">Conference 2005; Published 2008</td>
     <td align="center">$35</td>
   </tr>
        <tr>
     <td align="center">40-1</td>
+	       <td align="center">2008</td>
     <td align="left">Conference 2004; Published 2008</td>
     <td align="center">$35</td>
   </tr>
   <tr>
     <td align="center">40-2</td>
+	  <td align="center">2008</td>
     <td align="left">Conference 2004; Published 2008</td>
     <td align="center">$35</td>
   </tr>
   <tr>
     <td align="center">39-1</td>
+	  <td align="center">2007</td>
     <td align="left">Conference 2003; Published 2007</td>
     <td align="center">$35</td>
   </tr>
   <tr>
     <td align="center">39-2</td>
+	  <td align="center">2007</td>
     <td align="left">Conference 2003; Published 2007</td>
     <td align="center">$35</td>
   </tr>
   <tr>
     <td align="center">38-1</td>
+	  <td align="center">2002</td>
     <td align="left">Conference 2002</td>
     <td align="center">$25</td>
   </tr>
   <tr>
     <td align="center">38-2</td>
+	  <td align="center">2002</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
 		Negation and Polarity Items; Sub-symbolic Approaches to Language; Indigenous Languages of Latin America: Standardization and Multilingualism
@@ -171,11 +201,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">37-1</td>
+	  <td align="center">2001</td>
     <td align="left">Conference 2001</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">37-2</td>
+	  <td align="center">2001</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
 		Functionalism and Formalism in Linguistic Theory; Languages of the Arctic; The Autonomy of Morphology
@@ -184,11 +216,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">36-1</td>
+	  <td align="center">2000</td>
     <td align="left">Conference 2000</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">36-2</td>
+	  <td align="center">2000</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
 		The Morpho-Syntax Interface; The Myth of Standard English; The Acquisition of Syntax
@@ -197,11 +231,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">35-1</td>
+	  <td align="center">1999</td>
     <td align="left">Conference 1999</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">35-2</td>
+	  <td align="center">1999</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
 		Language, Identity & the Other; Multi-Disciplinary Approaches to Basic Units of Speech; Theory & Linguistic Diversity
@@ -210,11 +246,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">34-1</td>
+	  <td align="center">1998</td>
     <td align="left">Conference 1998</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">34-2</td>
+	  <td align="center">1998</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
     	The Status of Constraints; The Acquisition of Spoken Language; Acquisition and the Lexicon
@@ -223,11 +261,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">33-1</td>
+	  <td align="center">1997</td>
     <td align="left">Conference 1997</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">33-2</td>
+	  <td align="center">1997</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
     	Linguistic Ideologies in Contact; Universal Grammar, Parameters and Typology; The Perception of Speech and other Acoustic Signals
@@ -236,11 +276,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">32-1</td>
+	  <td align="center">1996</td>
     <td align="left">Conference 1996</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">32-2</td>
+	  <td align="center">1996</td>
     <td align="left">
     	<b>Parasession Topic</b>: <br>
     	Theory and Data in Linguistics
@@ -249,11 +291,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">31-1</td>
+	  <td align="center">1995</td>
     <td align="left">Conference 1995</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">31-2</td>
+	  <td align="center">1995</td>
     <td align="left">
     	<b>Parasession Topic</b>: <br>
     	Clitics
@@ -262,11 +306,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">30-1</td>
+	  <td align="center">1994</td>
     <td align="left">Conference 1994</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">30-2</td>
+	  <td align="center">1994</td>
     <td align="left">
     	<b>Parasession Topic</b>: <br>
     	Variation and Linguistic Theory
@@ -275,11 +321,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">29-1</td>
+	  <td align="center">1993</td>
     <td align="left">Conference 1993</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">29-2</td>
+	  <td align="center">1993</td>
     <td align="left">
     	<b>Parasession Topic</b>: <br>
     	Conceptual, Semantic & Grammatical Representation
@@ -288,238 +336,285 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">28-1</td>
+	  <td align="center">1992</td>
     <td align="left">Conference 1992</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">28-2</td>
+	  <td align="center">1992</td>
     <td align="left"><b>Parasession Topic</b>: <br> The Cycle in Linguistic Theory</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">27-1</td>
+	  <td align="center">1991</td>
     <td align="left">Conference 1991</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">27-2</td>
+	  <td align="center">1991</td>
     <td align="left">
     	<b>Parasession Topic</b>: <br> Negation</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">26-1</td>
-    <td align="left">Conference 1990</td>
+	  <td align="center">1990</td>
+    <td align="left">Papers from the 26th Regional Meeting of the Chicago Linguistic Society: Volume 1: The Main Session</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">26-2</td>
+	  <td align="center">1990</td>
     <td align="left"><b>Parasession Topic</b>: <br> The Syllable</td>
     <td align="center">$20</td>
   </tr>
   <tr>
     <td align="center">25-1</td>
-    <td align="left">Conference 1989</td>
+	  <td align="center">1989</td>
+    <td align="left">Papers from the 25th Annual Regional Meeting of the Chicago Linguistic Society: Part One: The General Session</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">25-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Language in Context</td>
+	  <td align="center">1989</td>
+    <td align="left">Papers from the 25th Annual Regional Meeting of the Chicago Linguistic Society: Part Two: Parasession on Language in Context</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">Best of CLS</td>
+	  <td align="center">N/A</td>
     <td align="left">Out of print papers from 1968-1975</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">24-1</td>
-    <td align="left">Conference 1988</td>
+	  <td align="center">1988</td>
+    <td align="left">Papers from the 24th Annual Regional Meeting of the Chicago Linguistic Society: Part One: The General Session</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">24-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Agreement in Grammatical Theory</td>
+	  <td align="center">1988</td>
+    <td align="left">Papers from the 24th Annual Regional Meeting of the Chicago Linguistic Society: Part Two: Parasession on Agreement in Grammatical Theory</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">23-1</td>
-    <td align="left">Conference 1987</td>
+	  <td align="center">1987</td>
+    <td align="left">Papers from the 23rd Annual Regional Meeting of the Chicago Linguistic Society: Part One: The General Session</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">23-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Autosegmental and Metrical Phonology</td>
+	  <td align="center">1987</td>
+    <td align="left">Papers from the 23rd Annual Regional Meeting of the Chicago Linguistic Society: Part Two: Parasession on Autosegmental and Metrical Phonology</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">22-1</td>
-    <td align="left">Conference 1986</td>
+	  <td align="center">1986</td>
+    <td align="left">Papers from the General Session at the Twenty-Second Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">22-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Pragmatics</td>
+	  <td align="center">1986</td>
+    <td align="left">Papers from the Parasession on Pragmatics and Grammatical Theory at the Twenty-Second Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">21-1</td>
-    <td align="left">Conference 1985</td>
+	  <td align="center">1985</td>
+    <td align="left">Papers from the General Session at the Twenty-first Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">21-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Causatives & Agentivity</td>
+	  <td align="center">1985</td>
+    <td align="left">Papers from the Parasession on Causatives and Agentivity at the Twenty-first Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">20-1</td>
-    <td align="left">Conference 1984</td>
+	  <td align="center">1984</td>
+    <td align="left">Papers from the Twentieth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">20-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Lexical Semantics</td>
+	  <td align="center">1984</td>
+    <td align="left">Papers from the Parasession on Lexical Semantics</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">19-1</td>
-    <td align="left">Conference 1983</td>
+	  <td align="center">1983</td>
+    <td align="left">Papers from the Nineteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">19-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Interplay of Phonology, Morpohology, and Syntax</td>
+	  <td align="center">1983</td>
+    <td align="left">Papers from the Parasession on The Interplay of Phonology, Morpohology, and Syntax</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">18-1</td>
-    <td align="left">Conference 1982</td>
+	  <td align="center">1982</td>
+    <td align="left">Papers from the Eighteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">18-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br>  Nondeclaratives</td>
+	  <td align="center">1982</td>
+    <td align="left">Papers from the Parasession on Nondeclaratives</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">17-1</td>
-    <td align="left">Conference 1981</td>
+	  <td align="center">1981</td>
+    <td align="left">Papers from the Seventeenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">17-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Language and Behavior</td>
+	  <td align="center">1981</td>
+    <td align="left">Papers from the Parasession on Language and Behavior</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">16-1</td>
-    <td align="left">Conference 1980</td>
+	  <td align="center">1980</td>
+    <td align="left">Papers from the Sixteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">16-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Pronouns and Anaphora</td>
+	  <td align="center">1980</td>
+    <td align="left">Papers from the Parasession on Pronouns and Anaphora</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">15-1</td>
-    <td align="left">Conference 1979</td>
+	  <td align="center">1979</td>
+    <td align="left">Papers from the Fifteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">15-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Elements: Units & Levels</td>
+	  <td align="center">1979</td>
+    <td align="left">Elements: A Parasession on Linguistic Units & Levels; Papers from the Conference on Non-Slavic Languages of the USSR</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">14-1</td>
-    <td align="left">Conference 1978</td>
+	  <td align="center">1978</td>
+    <td align="left">Papers from the Fourteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">14-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> The Lexicon</td>
+	  <td align="center">1978</td>
+    <td align="left">Papers from the Parasession on the Lexicon</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">13-1</td>
-    <td align="left">Conference 1977</td>
+	  <td align="center">1977</td>
+    <td align="left">Papers from the Thirteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">13-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Squibs & Index</td>
+	  <td align="center">1977</td>
+    <td align="left">The CLS Book of Squibs with Cumulative Index</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">12-1</td>
-    <td align="left">Conference 1976</td>
+	  <td align="center">1976</td>
+    <td align="left">Papers from the Twelfth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">12-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Diachronic Syntax</td>
+	  <td align="center">1976</td>
+    <td align="left">Papers from the Parasession on Diachronic Syntax</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">11-1</td>
-    <td align="left">Conference 1975</td>
+	  <td align="center">1975</td>
+    <td align="left">Papers from the Eleventh Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">11-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Functionalism</td>
+	  <td align="center">1975</td>
+    <td align="left">Papers from the Parasession on Functionalism</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">10-1</td>
-    <td align="left">Conference 1974</td>
+	  <td align="center">1974</td>
+    <td align="left">Papers from the Tenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">10-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> Natural Phonology</td>
+	  <td align="center">1974</td>
+    <td align="left">Papers from the Parasession on Natural Phonology</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">9-1</td>
-    <td align="left">Conference 1973, Published 1973</td>
+	  <td align="center">1973</td>
+    <td align="left">Papers from the Ninth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">9-2</td>
-    <td align="left"><b>Parasession Topic</b>: <br> You Take the High Node And I'll Take The Low Node</td>
+	  <td align="center">1973</td>
+    <td align="left">You Take the High Node And I'll Take The Low Node: Papers from the Comparative Syntax Festival</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">8-1</td>
-    <td align="left">Conference 1972</td>
+	  <td align="center">1972</td>
+    <td align="left">Papers from the Eighth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
     <td align="center">8-2</td>
+	  <td align="center">1972</td>
     <td align="left">The Chicago Which Hunt: Papers from the Relative Clause Festival</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">7-1</td>
-    <td align="left">Conference 1971</td>
+	  <td align="center">1971</td>
+    <td align="left">Papers from the Seventh Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">6-1</td>
-    <td align="left">Conference 1970</td>
+	  <td align="center">1970</td>
+    <td align="left">Papers from the Sixth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">5-1</td>
-    <td align="left">Conference 1969</td>
+    <td align="center"> 5-1 </td>
+	  <td align="center">1969</td>
+    <td align="left">Papers from the Fifth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">[4-1](http://chicagolinguisticsociety.org/public/cls4-toc.pdf)</td>
-    <td align="left">Conference 1968</td>
+    <td align="center"> 4-1 </td>
+	  <td align="center">1968</td>
+    <td align="left"> Papers from the Fourth Regional Meeting of the Chicago Linguistic Society </td>
     <td align="center">N/A</td>
   </tr>
 
