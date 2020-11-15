@@ -33,7 +33,7 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">54</td>
-    <td align="left">Conference 2018; Published 2020</td>
+    <td align="left">Conference 2018; Published 2019</td>
     <td align="center">$95</td>
   </tr>
   <tr>
@@ -163,7 +163,10 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">38-2</td>
-    <td align="left">Conference 2002</td>
+    <td align="left">
+    	<b>Panel Topics</b>: <br>
+		Negation and Polarity Items; Sub-symbolic Approaches to Language; Indigenous Languages of Latin America: Standardization and Multilingualism
+   </td>
     <td align="center">$25</td>
   </tr>
   <tr>
@@ -173,7 +176,10 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">37-2</td>
-    <td align="left">Conference 2001</td>
+    <td align="left">
+    	<b>Panel Topics</b>: <br>
+		Functionalism and Formalism in Linguistic Theory; Languages of the Arctic; The Autonomy of Morphology
+   </td>
     <td align="center">$20</td>
   </tr>
   <tr>
@@ -183,7 +189,10 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">36-2</td>
-    <td align="left">Conference 2000</td>
+    <td align="left">
+    	<b>Panel Topics</b>: <br>
+		The Morpho-Syntax Interface; The Myth of Standard English; The Acquisition of Syntax
+   </td>
     <td align="center">$20</td>
   </tr>
   <tr>
@@ -194,8 +203,8 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   <tr>
     <td align="center">35-2</td>
     <td align="left">
-    	<b>Parasession Topic</b>: <br>
-		Language, Identity & the Other Multi-Disciplinary Approaches to Basic Units of Speech Theory & Linguistic Diversity
+    	<b>Panel Topics</b>: <br>
+		Language, Identity & the Other; Multi-Disciplinary Approaches to Basic Units of Speech; Theory & Linguistic Diversity
    </td>
     <td align="center">$20</td>
   </tr>
@@ -206,7 +215,10 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   </tr>
   <tr>
     <td align="center">34-2</td>
-    <td align="left">Conference 1998</td>
+    <td align="left">
+    	<b>Panel Topics</b>: <br>
+    	The Status of Constraints; The Acquisition of Spoken Language; Acquisition and the Lexicon
+   </td>
     <td align="center">$20</td>
   </tr>
   <tr>
@@ -217,8 +229,8 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   <tr>
     <td align="center">33-2</td>
     <td align="left">
-    	<b>Parasession Topic</b>: <br>
-    	Universal Grammar, Parameters and Typology the Perception of Speech and other Acoustic Signals
+    	<b>Panel Topics</b>: <br>
+    	Linguistic Ideologies in Contact; Universal Grammar, Parameters and Typology; The Perception of Speech and other Acoustic Signals
    </td>
     <td align="center">$20</td>
   </tr>
@@ -238,7 +250,7 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   <tr>
     <td align="center">31-1</td>
     <td align="left">Conference 1995</td>
-    <td align="center">Out of Print</td>
+    <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">31-2</td>
@@ -246,7 +258,7 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     	<b>Parasession Topic</b>: <br>
     	Clitics
    </td>
-    <td align="center">Out of Print</td>
+    <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">30-1</td>
@@ -280,9 +292,14 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$20</td>
   </tr>
   <tr>
+    <td align="center">28-2</td>
+    <td align="left"><b>Parasession Topic</b>: <br> The Cycle in Linguistic Theory</td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
     <td align="center">27-1</td>
     <td align="left">Conference 1991</td>
-    <td align="center">Out of Print</td>
+    <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">27-2</td>
@@ -321,6 +338,21 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$15</td>
   </tr>
   <tr>
+    <td align="center">24-2</td>
+    <td align="left"><b>Parasession Topic</b>: <br> Agreement in Grammatical Theory</td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td align="center">23-1</td>
+    <td align="left">Conference 1987</td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td align="center">23-2</td>
+    <td align="left"><b>Parasession Topic</b>: <br> Autosegmental and Metrical Phonology</td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
     <td align="center">22-1</td>
     <td align="left">Conference 1986</td>
     <td align="center">$15</td>
@@ -348,7 +380,7 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   <tr>
     <td align="center">20-2</td>
     <td align="left"><b>Parasession Topic</b>: <br> Lexical Semantics</td>
-    <td align="center">Out of Print</td>
+    <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">19-1</td>
@@ -423,7 +455,7 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   <tr>
     <td align="center">12-1</td>
     <td align="left">Conference 1976</td>
-    <td align="center">$15</td>
+    <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">12-2</td>
@@ -431,9 +463,19 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">12-1</td>
-    <td align="left">Conference 1976</td>
-    <td align="center">Out of print</td>
+    <td align="center">11-1</td>
+    <td align="left">Conference 1975</td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td align="center">11-2</td>
+    <td align="left"><b>Parasession Topic</b>: <br> Functionalism</td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td align="center">10-1</td>
+    <td align="left">Conference 1974</td>
+    <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">10-2</td>
@@ -441,24 +483,29 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$15</td>
   </tr>
   <tr>
+    <td align="center">9-1</td>
+    <td align="left">Conference 1973, Published 1973</td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
     <td align="center">9-2</td>
     <td align="left"><b>Parasession Topic</b>: <br> You Take the High Node And I'll Take The Low Node</td>
     <td align="center">$15</td>
-  </tr>
-  <tr>
-    <td align="center">9-1</td>
-    <td align="left">Conference 1973, Published 1973</td>
-    <td align="center">Out of print</td>
   </tr>
   <tr>
     <td align="center">8-1</td>
     <td align="left">Conference 1972</td>
     <td align="center">$15</td>
   </tr>
-<tr>
+  <tr>
+    <td align="center">8-2</td>
+    <td align="left">The Chicago Which Hunt: Papers from the Relative Clause Festival</td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
     <td align="center">7-1</td>
     <td align="left">Conference 1971</td>
-    <td align="center">Out of print</td>
+    <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">6-1</td>
@@ -468,12 +515,12 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   <tr>
     <td align="center">5-1</td>
     <td align="left">Conference 1969</td>
-    <td align="center">Out of print</td>
+    <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">4-1</td>
     <td align="left">Conference 1968</td>
-    <td align="center">Out of print</td>
+    <td align="center">N/A</td>
   </tr>
 
 
