@@ -518,7 +518,7 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">4-1</td>
+    <td align="center">[4-1](http://chicagolinguisticsociety.org/public/cls4-toc.pdf)</td>
     <td align="left">Conference 1968</td>
     <td align="center">N/A</td>
   </tr>
