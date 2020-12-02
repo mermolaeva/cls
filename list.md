@@ -15,7 +15,7 @@ Upon receiving your order, we will send an invoice indicating the final price in
 
 Shipping and handling **within the United States** is $3 for the first book and $1.50 for each additional book. International shipping and handling is $15 for each book.
 
-Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much of 2020. We are up and running and accepting orders again, but we won't be invoicing or shipping Vols. 54 or 55 until March 2021. We are sorry for any inconvenience this may present; you may email us at the address linked above with any more specific inquiries. 
+Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much of 2020. We are up and running and accepting orders again, but we won't be invoicing or shipping Vols. 54 or 55 until January 2021. We are sorry for any inconvenience this may present; you may email us at the address linked above with any more specific inquiries. 
 
 <table>
   	<colgroup width="92" align="center"></colgroup>
@@ -31,7 +31,7 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   <tr>
     <td align="center">55</td>
     <td align="center">2020</td>
-    <td align="left">Conference 2019; in press</td>
+    <td align="left">Conference 2019; Published 2020</td>
     <td align="center">$95</td>
   </tr>
   <tr>
@@ -614,7 +614,7 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
   <tr>
     <td align="center"> 4-1 </td>
 	  <td align="center">1968</td>
-    <td align="left"> Papers from the Fourth Regional Meeting of the Chicago Linguistic Society </td>
+    <td align="left"> [Papers from the Fourth Regional Meeting of the Chicago Linguistic Society](http://chicagolinguisticsociety.org/public/cls4-toc.pdf) </td>
     <td align="center">N/A</td>
   </tr>
 
