@@ -15,7 +15,7 @@ Upon receiving your order, we will send an invoice indicating the final price in
 
 Shipping and handling **within the United States** is $3 for the first book and $1.50 for each additional book. International shipping and handling is $15 for each book.
 
-Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much of 2020. We are up and running and accepting orders again, but we won't be invoicing or shipping Vols. 54 or 55 until January 2021. We are sorry for any inconvenience this may present; you may email us at the address linked above with any more specific inquiries. 
+Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much of 2020. We are up and running and accepting orders again, but we won't be invoicing or shipping Vols. 54 or 55 until January 2021. We are sorry for any inconvenience this may present; you may email us at the address linked above with any more specific inquiries.
 
 <table>
   	<colgroup width="92" align="center"></colgroup>
@@ -29,7 +29,7 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <th align="center">Price</th>
   </tr>
   <tr>
-    <td align="center">55</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls55-toc.pdf" title="cls55">55</a></td>
     <td align="center">2020</td>
     <td align="left">Conference 2019; Published 2020</td>
     <td align="center">$95</td>
@@ -185,13 +185,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$35</td>
   </tr>
   <tr>
-    <td align="center">38-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls38-toc.pdf" title="cls38">38-1</a></td>
 	  <td align="center">2002</td>
     <td align="left">Conference 2002</td>
     <td align="center">$25</td>
   </tr>
   <tr>
-    <td align="center">38-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls38-2-toc.pdf" title="cls38-2">38-2</a></td>
 	  <td align="center">2002</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
@@ -200,13 +200,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$25</td>
   </tr>
   <tr>
-    <td align="center">37-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls37-toc.pdf" title="cls37">37-1</a></td>
 	  <td align="center">2001</td>
     <td align="left">Conference 2001</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">37-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls37-2-toc.pdf" title="cls37-2">37-2</a></td>
 	  <td align="center">2001</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
@@ -215,13 +215,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">36-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls36-toc.pdf" title="cls36">36-1</a></td>
 	  <td align="center">2000</td>
     <td align="left">Conference 2000</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">36-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls36-2-toc.pdf" title="cls36-2">36-2</a></td>
 	  <td align="center">2000</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
@@ -230,13 +230,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">35-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls35-toc.pdf" title="cls35">35-1</a></td>
 	  <td align="center">1999</td>
     <td align="left">Conference 1999</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">35-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls35-2-toc.pdf" title="cls35-2">35-2</a></td>
 	  <td align="center">1999</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
@@ -245,13 +245,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">34-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls34-toc.pdf" title="cls34">34-1</a></td>
 	  <td align="center">1998</td>
     <td align="left">Conference 1998</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">34-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls34-2-toc.pdf" title="cls34-2">34-2</a></td>
 	  <td align="center">1998</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
@@ -260,13 +260,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">33-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls33-toc.pdf" title="cls33">33-1</a></td>
 	  <td align="center">1997</td>
     <td align="left">Conference 1997</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">33-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls33-2-toc.pdf" title="cls33-2">33-2</a></td>
 	  <td align="center">1997</td>
     <td align="left">
     	<b>Panel Topics</b>: <br>
@@ -275,13 +275,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">32-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls32-toc.pdf" title="cls32">32-1</a></td>
 	  <td align="center">1996</td>
     <td align="left">Conference 1996</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">32-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls32-2-toc.pdf" title="cls32-2">32-2</a></td>
 	  <td align="center">1996</td>
     <td align="left">
     	<b>Parasession Topic</b>: <br>
@@ -290,13 +290,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">31-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls31-toc.pdf" title="cls31">31-1</a></td>
 	  <td align="center">1995</td>
     <td align="left">Conference 1995</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">31-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls31-2-toc.pdf" title="cls31-2">31-2</a></td>
 	  <td align="center">1995</td>
     <td align="left">
     	<b>Parasession Topic</b>: <br>
@@ -305,13 +305,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">30-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls30-toc.pdf" title="cls30">30-1</a></td>
 	  <td align="center">1994</td>
     <td align="left">Conference 1994</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">30-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls30-2-toc.pdf" title="cls30-2">30-2</a></td>
 	  <td align="center">1994</td>
     <td align="left">
     	<b>Parasession Topic</b>: <br>
@@ -320,13 +320,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">29-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls29-toc.pdf" title="cls29">29-1</a></td>
 	  <td align="center">1993</td>
     <td align="left">Conference 1993</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">29-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls29-2-toc.pdf" title="cls29-2">29-2</a></td>
 	  <td align="center">1993</td>
     <td align="left">
     	<b>Parasession Topic</b>: <br>
@@ -335,50 +335,50 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">28-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls28-toc.pdf" title="cls28">28-1</a></td>
 	  <td align="center">1992</td>
     <td align="left">Conference 1992</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">28-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls28-2-toc.pdf" title="cls28-2">28-2</a></td>
 	  <td align="center">1992</td>
     <td align="left"><b>Parasession Topic</b>: <br> The Cycle in Linguistic Theory</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">27-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls27-toc.pdf" title="cls27">27-1</a></td>
 	  <td align="center">1991</td>
     <td align="left">Conference 1991</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">27-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls27-2-toc.pdf" title="cls27-2">27-2</a></td>
 	  <td align="center">1991</td>
     <td align="left">
     	<b>Parasession Topic</b>: <br> Negation</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">26-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls26-toc.pdf" title="cls26">26-1</a></td>
 	  <td align="center">1990</td>
     <td align="left">Papers from the 26th Regional Meeting of the Chicago Linguistic Society: Volume 1: The Main Session</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">26-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls26-2-toc.pdf" title="cls26-2">26-2</a></td>
 	  <td align="center">1990</td>
     <td align="left"><b>Parasession Topic</b>: <br> The Syllable</td>
     <td align="center">$20</td>
   </tr>
   <tr>
-    <td align="center">25-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls25-toc.pdf" title="cls25">25-1</a></td>
 	  <td align="center">1989</td>
     <td align="left">Papers from the 25th Annual Regional Meeting of the Chicago Linguistic Society: Part One: The General Session</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">25-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls25-2-toc.pdf" title="cls25-2">25-2</a></td>
 	  <td align="center">1989</td>
     <td align="left">Papers from the 25th Annual Regional Meeting of the Chicago Linguistic Society: Part Two: Parasession on Language in Context</td>
     <td align="center">$15</td>
@@ -390,139 +390,139 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">24-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls24-toc.pdf" title="cls24">24-1</a></td>
 	  <td align="center">1988</td>
     <td align="left">Papers from the 24th Annual Regional Meeting of the Chicago Linguistic Society: Part One: The General Session</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">24-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls24-2-toc.pdf" title="cls24-2">24-2</a></td>
 	  <td align="center">1988</td>
     <td align="left">Papers from the 24th Annual Regional Meeting of the Chicago Linguistic Society: Part Two: Parasession on Agreement in Grammatical Theory</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">23-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls23-toc.pdf" title="cls23">23-1</a></td>
 	  <td align="center">1987</td>
     <td align="left">Papers from the 23rd Annual Regional Meeting of the Chicago Linguistic Society: Part One: The General Session</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">23-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls23-2-toc.pdf" title="cls23-2">23-2</a></td>
 	  <td align="center">1987</td>
     <td align="left">Papers from the 23rd Annual Regional Meeting of the Chicago Linguistic Society: Part Two: Parasession on Autosegmental and Metrical Phonology</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">22-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls22-toc.pdf" title="cls22">22-1</a></td>
 	  <td align="center">1986</td>
     <td align="left">Papers from the General Session at the Twenty-Second Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">22-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls22-2-toc.pdf" title="cls22-2">22-2</a></td>
 	  <td align="center">1986</td>
     <td align="left">Papers from the Parasession on Pragmatics and Grammatical Theory at the Twenty-Second Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">21-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls21-toc.pdf" title="cls21">21-1</a></td>
 	  <td align="center">1985</td>
     <td align="left">Papers from the General Session at the Twenty-first Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">21-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls21-2-toc.pdf" title="cls21-2">21-2</a></td>
 	  <td align="center">1985</td>
     <td align="left">Papers from the Parasession on Causatives and Agentivity at the Twenty-first Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">20-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls20-toc.pdf" title="cls20">20-1</a></td>
 	  <td align="center">1984</td>
     <td align="left">Papers from the Twentieth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">20-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls20-2-toc.pdf" title="cls20-2">20-2</a></td>
 	  <td align="center">1984</td>
     <td align="left">Papers from the Parasession on Lexical Semantics</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">19-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls19-toc.pdf" title="cls19">19-1</a></td>
 	  <td align="center">1983</td>
     <td align="left">Papers from the Nineteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">19-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls19-2-toc.pdf" title="cls19-2">19-2</a></td>
 	  <td align="center">1983</td>
     <td align="left">Papers from the Parasession on The Interplay of Phonology, Morpohology, and Syntax</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">18-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls18-toc.pdf" title="cls18">18-1</a></td>
 	  <td align="center">1982</td>
     <td align="left">Papers from the Eighteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">18-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls18-2-toc.pdf" title="cls18-2">18-2</a></td>
 	  <td align="center">1982</td>
     <td align="left">Papers from the Parasession on Nondeclaratives</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">17-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls17-toc.pdf" title="cls17">17-1</a></td>
 	  <td align="center">1981</td>
     <td align="left">Papers from the Seventeenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">17-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls17-2-toc.pdf" title="cls17-2">17-2</a></td>
 	  <td align="center">1981</td>
     <td align="left">Papers from the Parasession on Language and Behavior</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">16-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls16-toc.pdf" title="cls16">16-1</a></td>
 	  <td align="center">1980</td>
     <td align="left">Papers from the Sixteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">16-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls16-2-toc.pdf" title="cls16-2">16-2</a></td>
 	  <td align="center">1980</td>
     <td align="left">Papers from the Parasession on Pronouns and Anaphora</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">15-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls15-toc.pdf" title="cls15">15-1</a></td>
 	  <td align="center">1979</td>
     <td align="left">Papers from the Fifteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">15-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls15-2-toc.pdf" title="cls15-2">15-2</a></td>
 	  <td align="center">1979</td>
     <td align="left">Elements: A Parasession on Linguistic Units & Levels; Papers from the Conference on Non-Slavic Languages of the USSR</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">14-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls14-toc.pdf" title="cls14">14-1</a></td>
 	  <td align="center">1978</td>
     <td align="left">Papers from the Fourteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">14-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls14-2-toc.pdf" title="cls14-2">14-2</a></td>
 	  <td align="center">1978</td>
     <td align="left">Papers from the Parasession on the Lexicon</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">13-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls13-toc.pdf" title="cls13">13-1</a></td>
 	  <td align="center">1977</td>
     <td align="left">Papers from the Thirteenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
@@ -534,43 +534,43 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">12-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls12-toc.pdf" title="cls12">12-1</a></td>
 	  <td align="center">1976</td>
     <td align="left">Papers from the Twelfth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">12-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls12-2-toc.pdf" title="cls12-2">12-2</a></td>
 	  <td align="center">1976</td>
     <td align="left">Papers from the Parasession on Diachronic Syntax</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">11-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls11-toc.pdf" title="cls11">11-1</a></td>
 	  <td align="center">1975</td>
     <td align="left">Papers from the Eleventh Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">11-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls11-2-toc.pdf" title="cls11-2">11-2</a></td>
 	  <td align="center">1975</td>
     <td align="left">Papers from the Parasession on Functionalism</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">10-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls10-toc.pdf" title="cls10">10-1</a></td>
 	  <td align="center">1974</td>
     <td align="left">Papers from the Tenth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">10-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls10-2-toc.pdf" title="cls10-2">10-2</a></td>
 	  <td align="center">1974</td>
     <td align="left">Papers from the Parasession on Natural Phonology</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">9-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls9-toc.pdf" title="cls9">9-1</a></td>
 	  <td align="center">1973</td>
     <td align="left">Papers from the Ninth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
@@ -582,39 +582,39 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">8-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls8-toc.pdf" title="cls8">8-1</a></td>
 	  <td align="center">1972</td>
     <td align="left">Papers from the Eighth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center">8-2</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls8-2-toc.pdf" title="cls8-2">8-2</a></td>
 	  <td align="center">1972</td>
     <td align="left">The Chicago Which Hunt: Papers from the Relative Clause Festival</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">7-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls7-toc.pdf" title="cls7">7-1</a></td>
 	  <td align="center">1971</td>
     <td align="left">Papers from the Seventh Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">6-1</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls6-toc.pdf" title="cls6">6-1</a></td>
 	  <td align="center">1970</td>
     <td align="left">Papers from the Sixth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">$15</td>
   </tr>
   <tr>
-    <td align="center"> 5-1 </td>
+    <td align="center"> <a href="http://chicagolinguisticsociety.org/public/cls5-toc.pdf" title="cls5">5-1</a> </td>
 	  <td align="center">1969</td>
     <td align="left">Papers from the Fifth Regional Meeting of the Chicago Linguistic Society</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center"> 4-1 </td>
+    <td align="center"> <a href="http://chicagolinguisticsociety.org/public/cls4-toc.pdf" title="cls4">4-1</a> </td>
 	  <td align="center">1968</td>
-    <td align="left"> [Papers from the Fourth Regional Meeting of the Chicago Linguistic Society](http://chicagolinguisticsociety.org/public/cls4-toc.pdf) </td>
+    <td align="left"> Papers from the Fourth Regional Meeting of the Chicago Linguistic Society </td>
     <td align="center">N/A</td>
   </tr>
 
