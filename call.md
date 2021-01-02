@@ -20,8 +20,8 @@ So that we may evaluate all submissions in a fair and equal manner, abstracts wh
 
 ## Important Dates:
 
-- Submission deadline: January 8, 2021 by 11:59 PM CST
-- Notification: February 24, 2021
+- Submission deadline: **January 15, 2021** by 11:59 PM CST
+- Notification: Early March 2021
 - Conference dates: May 6 to May 8, 2021
 
 ## Special Sessions:
