@@ -25,8 +25,8 @@ Available for viewing [here](http://chicagolinguisticsociety.org/public/CLS_57_S
 
 ## Accessibility:
 - All sessions of CLS 57 will be ASL interpreted and captioned. 
-- Please click here to view guidelines for presenters and attendees to facilitate the work of the interpreters. 
-- If you are an attendee who would like to make use of the captioning and/or ASL interpretation, please click here to view instructions on how to use those services over Zoom. 
+- Please click [here](https://docs.google.com/document/d/18deg4dLAPmgv9tH6u37khVNgQOz7qbu0jhny28-R4Pc/edit?usp=sharing) to view guidelines for presenters and attendees to facilitate the work of the interpreters. 
+- If you are an attendee who would like to make use of the captioning and/or ASL interpretation, please click [here](https://docs.google.com/document/d/1kUB5v73LLDc-oKPfq-34WGP85PgY7jjM77H_65NDaXY/edit?usp=sharing) to view instructions on how to use those services over Zoom. 
 ## Format: 
 ### Plenaries:
 - There will be 6 plenaries (2 per day of the conference). Each one will be a one-hour session consisting of a 45-minute presentation followed by a 15-minute Q & A period.
