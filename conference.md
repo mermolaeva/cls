@@ -3,26 +3,47 @@ layout: page
 title: Conference
 ---
 ## Format: 
-
-- The conference will consist of 16 sessions total - 12 sessions of 3-4 20-minute stage presentations each, and 4 sessions of 3-4 5-minute poster presentations each. 
-- 20-minute presentations will have 10-minute Q & A periods following them (for a total of 30 minutes per presenter), while 5-minute presentations will have 5-minute Q & A periods following them (for a total of 10 minutes per presenter).  
-- After all of the 5-minute presentations in a poster session are given, the rest of the session will be reserved for a 50-minute poster mingle. During this time, each poster will get its own breakout room, where presenters and attendees can engage in longer conversations about the work that was presented. 
-- There will also be 6 plenaries - these will be one hour long each, consisting of 40-minute presentations followed by 20-minute Q & A periods. 
-- All sessions will be synchronous and occur on Zoom. Presenters, as well as those who register ([here](https://forms.gle/6onoAVAd5UjgA91A8)), will receive passwords to access the Zoom calls. The conference will also be streamed to YouTube on an unlisted channel. Recordings of the conference will be available for 1 week before being deleted. 
-- All sessions will be ASL interpreted and captioned. 
-- Finally, we will also be using Discord to facilitate more casual 'hallway conversations'. The Discord server (link to come) will feature a text-based chatroom dedicated to each presentation, where presenters and attendees can talk further (and asynchronously). The Discord will also include purely social chatrooms. 
-
-
-
-## Important Dates:
-
-- Submission deadline: January 15, 2021 by 11:59 PM CST **(closed)**
-- Notification: mid-March 2021 **(notified)**
-- Conference dates: May 6 to May 8, 2021
+### Plenaries:
+- There will be 6 plenaries (2 per day of the conference). Each one will be a one-hour session consisting of a 45-minute presentation followed by a 15-minute Q & A period.
+- Plenaries will take place in Zoom Room A. 
+### 20-minute presentations: 
+- There will be 12 sessions of 20-minute presentations - each session will consist of either three or four presentations. 
+- Each 20-minute presentation will be followed by a 10-minute Q & A period, for a total of 30 minutes per presentation. 
+- 20-minute presentations will take place in Zoom Rooms A and B. 
+### Poster sessions:
+- There will be 4 poster sessions at CLS 57: two on Thursday, and two on Friday. 
+- Each poster session will begin with 5-minute flash presentations by each presenter. Each flash presentation will be followed by a 5-minute Q & A period, for a total of 10 minutes per poster. 
+- After all of the flash presentations in a session have been completed, each poster will have its own breakout room within the Zoom Meeting. Breakout rooms will run in parallel and last 50 minutes. 
+- Poster sessions will take place in Zoom Rooms A and B. 
+### Discord: 
+- We will be using the Discord platform to provide a casual online space for CLS 57 attendees. 
+- Each plenary, 20-minute, and poster presentation will receive its own Discord text channel (chatroom). 
+- There will also be social chatrooms, both text-based and voice-based. 
+- If you've registered for the conference, we'll send you the Discord invite link over e-mail! 
 
 ## Venue
 
-Zoom and Discord - links to follow
+### Day 1 - Thursday, May 6th
+	
+		  - [Room A - Zoom - Thursday](https://uchicago.zoom.us/j/97096497547)
+		  - [Room A - YouTube - Thursday](https://youtu.be/B3YCrJJGR0w)
+		  - [Room B - Zoom - Thursday](https://uchicago.zoom.us/j/98579675649)
+		  - [Room B - YouTube - Thursday](https://youtu.be/d8J7OYGFSZo)
+	
+### Day 2 - Friday, May 7th
+  	 <ul>
+		  <li><b><a href="https://uchicago.zoom.us/j/98646487420">Room A - Zoom - Friday</a></b></li>
+		  <li><b><a href="https://youtu.be/mLkBkahozuw">Room A - YouTube - Friday</a></b></li>
+		  <li><b><a href="https://uchicago.zoom.us/j/96489699650">Room B - Zoom - Friday</a></b></li>
+		  <li><b><a href="https://youtu.be/xfe_eKUyeLw">Room B - YouTube - Friday</a></b></li>
+	  </ul>
+### Day 3 - Saturday, May 8th
+	  <ul>
+		  <li><b><a href="https://uchicago.zoom.us/j/95668204780">Room A - Zoom - Saturday</a></b></li>
+		  <li><b><a href="https://youtu.be/LT2YjYeHRAk">Room A - YouTube - Saturday</a></b></li>
+		  <li><b><a href="https://uchicago.zoom.us/j/97754915740">Room B - Zoom - Saturday</a></b></li>
+		  <li><b><a href="https://youtu.be/RgbEAR59pHg">Room B - YouTube - Saturday</a></b></li>
+	  </ul>
 
 ## Program 
 
